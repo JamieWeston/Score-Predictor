@@ -2,87 +2,44 @@ name: Generate Football Predictions
 
 on:
   schedule:
-    # Every day at 07:00 UTC (08:00 UK when UTC+1)
+    # Run every day at 7 AM UTC (8 AM UK time)
     - cron: '0 7 * * *'
-  workflow_dispatch: {}   # manual run button
-
-permissions:
-  contents: write         # <- REQUIRED for git push
+  workflow_dispatch: # Allows manual running
 
 jobs:
   generate-predictions:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
-
+    
     steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0          # allow committing back
-
-      - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-
-      - name: 📦 Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [[ -f requirements.txt ]]; then pip install -r requirements.txt; fi
-          if [[ -f requirements-dev.txt ]]; then pip install -r requirements-dev.txt || true; fi
-
-      - name: 🎯 Generate predictions
-        env:
-          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
-          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: |
-          set -euo pipefail
-          echo "Running generator…"
-          # Prefer scripts/generate_predictions.py; fall back to scripts/generate.py; or module form
-          if [[ -f scripts/generate_predictions.py ]]; then
-            python scripts/generate_predictions.py
-          elif [[ -f scripts/generate.py ]]; then
-            python scripts/generate.py
-          else
-            python - <<'PY'
-import runpy, sys
-for m in ("scripts.generate_predictions", "scripts.generate"):
-    try:
-        runpy.run_module(m, run_name="__main__")
-        print(f"Ran {m}")
-        break
-    except ModuleNotFoundError:
-        continue
-else:
-    sys.exit("No generator script found (scripts/generate_predictions.py or scripts/generate.py).")
-PY
-          fi
-
-      - name: ✅ Verify outputs exist
-        run: |
-          set -e
-          ls -l data || true
-          test -s data/predictions.json || (echo "::error::data/predictions.json missing or empty"; exit 1)
-          # tips.json optional; don’t fail if missing
-
-      - name: 📝 Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # auto-provided
-        run: |
-          set -e
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          # Stage only what exists; do not fail if tips.json not present
-          git add -A data
-          if git diff --staged --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "🤖 Auto-update predictions $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-            # Pull to avoid non-fast-forward on busy repos
-            git pull --rebase --autostash || true
-            git push
-          fi
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 📦 Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: 🎯 Generate predictions
+      env:
+        FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      run: |
+        cd scripts
+        python generate_predictions.py
+    
+    - name: 📤 Commit and push changes
+      run: |
+        git config --local user.email "predictions@footballpredictor.com"
+        git config --local user.name "Football Predictor Bot"
+        git add data/predictions.json data/tips.json
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🤖 Auto-update predictions $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        fi

@@ -1,8 +1,62 @@
 [
   {
-    "match": "Arsenal vs Chelsea",
-    "date": "2024-08-25",
+    "match": "West Ham United FC vs Chelsea FC",
+    "date": "2025-08-22",
     "tip": "Home Win",
-    "confidence": "45.2%"
+    "confidence": "56.7%"
+  },
+  {
+    "match": "Manchester City FC vs Tottenham Hotspur FC",
+    "date": "2025-08-23",
+    "tip": "No Clear Favorite",
+    "confidence": "53.1%"
+  },
+  {
+    "match": "AFC Bournemouth vs Wolverhampton Wanderers FC",
+    "date": "2025-08-23",
+    "tip": "Home Win",
+    "confidence": "70.0%"
+  },
+  {
+    "match": "Brentford FC vs Aston Villa FC",
+    "date": "2025-08-23",
+    "tip": "Home Win",
+    "confidence": "56.7%"
+  },
+  {
+    "match": "Burnley FC vs Sunderland AFC",
+    "date": "2025-08-23",
+    "tip": "No Clear Favorite",
+    "confidence": "51.0%"
+  },
+  {
+    "match": "Arsenal FC vs Leeds United FC",
+    "date": "2025-08-23",
+    "tip": "No Clear Favorite",
+    "confidence": "53.1%"
+  },
+  {
+    "match": "Crystal Palace FC vs Nottingham Forest FC",
+    "date": "2025-08-24",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Everton FC vs Brighton & Hove Albion FC",
+    "date": "2025-08-24",
+    "tip": "Home Win",
+    "confidence": "56.7%"
+  },
+  {
+    "match": "Fulham FC vs Manchester United FC",
+    "date": "2025-08-24",
+    "tip": "Home Win",
+    "confidence": "70.0%"
+  },
+  {
+    "match": "Newcastle United FC vs Liverpool FC",
+    "date": "2025-08-25",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
   }
 ]

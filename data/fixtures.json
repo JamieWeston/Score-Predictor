@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-08-24",
+    "home_team": "Arsenal",
+    "away_team": "Aston Villa",
+    "status": "SCHEDULED"
+  },
+  {
+    "date": "2024-08-24", 
+    "home_team": "Brighton",
+    "away_team": "Manchester United",
+    "status": "SCHEDULED"
+  },
+  {
+    "date": "2024-08-25",
+    "home_team": "Manchester City",
+    "away_team": "Ipswich Town",
+    "status": "SCHEDULED"
+  },
+  {
+    "date": "2024-08-25",
+    "home_team": "Tottenham",
+    "away_team": "Everton", 
+    "status": "SCHEDULED"
+  },
+  {
+    "date": "2024-08-26",
+    "home_team": "Chelsea",
+    "away_team": "Crystal Palace",
+    "status": "SCHEDULED"
+  }
+]

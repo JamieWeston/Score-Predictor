@@ -1,1 +1,26 @@
-
+[
+  {
+    "match": "Arsenal vs Chelsea",
+    "date": "2024-08-25",
+    "predictions": {
+      "result": {
+        "home_win": 45.2,
+        "draw": 28.1,
+        "away_win": 26.7
+      },
+      "btts": {
+        "yes": 62.3,
+        "no": 37.7
+      },
+      "over_under_2_5": {
+        "over": 58.9,
+        "under": 41.1
+      },
+      "top_scorelines": [
+        {"score": "2-1", "probability": 12.4},
+        {"score": "1-1", "probability": 11.8},
+        {"score": "2-0", "probability": 9.7}
+      ]
+    }
+  }
+]

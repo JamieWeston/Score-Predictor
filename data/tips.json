@@ -1,11 +1,5 @@
 [
   {
-    "match": "West Ham United FC vs Chelsea FC",
-    "date": "2025-08-22",
-    "tip": "Home Win",
-    "confidence": "56.7%"
-  },
-  {
     "match": "Manchester City FC vs Tottenham Hotspur FC",
     "date": "2025-08-23",
     "tip": "No Clear Favorite",
@@ -58,5 +52,11 @@
     "date": "2025-08-25",
     "tip": "No Clear Favorite",
     "confidence": "42.5%"
+  },
+  {
+    "match": "Chelsea FC vs Fulham FC",
+    "date": "2025-08-30",
+    "tip": "Home Win",
+    "confidence": "70.0%"
   }
 ]

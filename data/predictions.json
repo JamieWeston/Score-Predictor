@@ -1,38 +1,5 @@
 [
   {
-    "match": "West Ham United FC vs Chelsea FC",
-    "date": "2025-08-22",
-    "predictions": {
-      "result": {
-        "home_win": 56.7,
-        "draw": 15.0,
-        "away_win": 28.3
-      },
-      "btts": {
-        "yes": 25,
-        "no": 75
-      },
-      "over_under_2_5": {
-        "over": 44.4,
-        "under": 55.6
-      },
-      "top_scorelines": [
-        {
-          "score": "0-0",
-          "probability": 26.4
-        },
-        {
-          "score": "1-0",
-          "probability": 26.4
-        },
-        {
-          "score": "2-0",
-          "probability": 13.2
-        }
-      ]
-    }
-  },
-  {
     "match": "Manchester City FC vs Tottenham Hotspur FC",
     "date": "2025-08-23",
     "predictions": {
@@ -325,6 +292,39 @@
         {
           "score": "0-2",
           "probability": 11.2
+        }
+      ]
+    }
+  },
+  {
+    "match": "Chelsea FC vs Fulham FC",
+    "date": "2025-08-30",
+    "predictions": {
+      "result": {
+        "home_win": 70,
+        "draw": 15,
+        "away_win": 15
+      },
+      "btts": {
+        "yes": 68.8,
+        "no": 31.2
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-1",
+          "probability": 5.8
+        },
+        {
+          "score": "3-2",
+          "probability": 5.8
+        },
+        {
+          "score": "4-1",
+          "probability": 5.1
         }
       ]
     }

@@ -1,23 +1,5 @@
 [
   {
-    "match": "Crystal Palace FC vs Nottingham Forest FC",
-    "date": "2025-08-24",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
-    "match": "Everton FC vs Brighton & Hove Albion FC",
-    "date": "2025-08-24",
-    "tip": "Home Win",
-    "confidence": "56.7%"
-  },
-  {
-    "match": "Fulham FC vs Manchester United FC",
-    "date": "2025-08-24",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
     "match": "Newcastle United FC vs Liverpool FC",
     "date": "2025-08-25",
     "tip": "No Clear Favorite",
@@ -27,7 +9,7 @@
     "match": "Chelsea FC vs Fulham FC",
     "date": "2025-08-30",
     "tip": "Home Win",
-    "confidence": "70.0%"
+    "confidence": "63.8%"
   },
   {
     "match": "Sunderland AFC vs Brentford FC",
@@ -39,7 +21,7 @@
     "match": "Manchester United FC vs Burnley FC",
     "date": "2025-08-30",
     "tip": "No Clear Favorite",
-    "confidence": "51.0%"
+    "confidence": "42.5%"
   },
   {
     "match": "Tottenham Hotspur FC vs AFC Bournemouth",
@@ -50,13 +32,31 @@
   {
     "match": "Wolverhampton Wanderers FC vs Everton FC",
     "date": "2025-08-30",
-    "tip": "Home Win",
-    "confidence": "70.0%"
+    "tip": "No Clear Favorite",
+    "confidence": "51.0%"
   },
   {
     "match": "Leeds United FC vs Newcastle United FC",
     "date": "2025-08-30",
     "tip": "Home Win",
     "confidence": "70.0%"
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs Manchester City FC",
+    "date": "2025-08-31",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Nottingham Forest FC vs West Ham United FC",
+    "date": "2025-08-31",
+    "tip": "Home Win",
+    "confidence": "70.0%"
+  },
+  {
+    "match": "Liverpool FC vs Arsenal FC",
+    "date": "2025-08-31",
+    "tip": "No Clear Favorite",
+    "confidence": "46.4%"
   }
 ]

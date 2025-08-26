@@ -1,38 +1,5 @@
 [
   {
-    "match": "Newcastle United FC vs Liverpool FC",
-    "date": "2025-08-25",
-    "predictions": {
-      "result": {
-        "home_win": 42.5,
-        "draw": 15.0,
-        "away_win": 42.5
-      },
-      "btts": {
-        "yes": 50.0,
-        "no": 50.0
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "0-3",
-          "probability": 13.1
-        },
-        {
-          "score": "0-4",
-          "probability": 11.5
-        },
-        {
-          "score": "0-2",
-          "probability": 11.2
-        }
-      ]
-    }
-  },
-  {
     "match": "Chelsea FC vs Fulham FC",
     "date": "2025-08-30",
     "predictions": {
@@ -211,21 +178,21 @@
         "no": 75
       },
       "over_under_2_5": {
-        "over": 51.7,
-        "under": 48.3
+        "over": 52.2,
+        "under": 47.8
       },
       "top_scorelines": [
         {
-          "score": "1-0",
-          "probability": 24.4
-        },
-        {
           "score": "0-0",
-          "probability": 21.2
+          "probability": 20.9
         },
         {
-          "score": "2-0",
-          "probability": 14.0
+          "score": "0-1",
+          "probability": 16.7
+        },
+        {
+          "score": "1-0",
+          "probability": 16.0
         }
       ]
     }
@@ -301,9 +268,9 @@
     "date": "2025-08-31",
     "predictions": {
       "result": {
-        "home_win": 38.6,
+        "home_win": 48.6,
         "draw": 15.0,
-        "away_win": 46.4
+        "away_win": 36.4
       },
       "btts": {
         "yes": 81.2,
@@ -325,6 +292,39 @@
         {
           "score": "4-2",
           "probability": 4.2
+        }
+      ]
+    }
+  },
+  {
+    "match": "Aston Villa FC vs Crystal Palace FC",
+    "date": "2025-08-31",
+    "predictions": {
+      "result": {
+        "home_win": 51.0,
+        "draw": 15.0,
+        "away_win": 34.0
+      },
+      "btts": {
+        "yes": 25,
+        "no": 75
+      },
+      "over_under_2_5": {
+        "over": 66.7,
+        "under": 33.3
+      },
+      "top_scorelines": [
+        {
+          "score": "0-0",
+          "probability": 13.5
+        },
+        {
+          "score": "0-1",
+          "probability": 13.5
+        },
+        {
+          "score": "1-0",
+          "probability": 13.5
         }
       ]
     }

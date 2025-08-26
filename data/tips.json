@@ -1,11 +1,5 @@
 [
   {
-    "match": "Newcastle United FC vs Liverpool FC",
-    "date": "2025-08-25",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
     "match": "Chelsea FC vs Fulham FC",
     "date": "2025-08-30",
     "tip": "Home Win",
@@ -57,6 +51,12 @@
     "match": "Liverpool FC vs Arsenal FC",
     "date": "2025-08-31",
     "tip": "No Clear Favorite",
-    "confidence": "46.4%"
+    "confidence": "48.6%"
+  },
+  {
+    "match": "Aston Villa FC vs Crystal Palace FC",
+    "date": "2025-08-31",
+    "tip": "No Clear Favorite",
+    "confidence": "51.0%"
   }
 ]

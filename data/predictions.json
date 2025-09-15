@@ -1,82 +1,16 @@
 [
   {
-    "match": "Burnley FC vs Liverpool FC",
-    "date": "2025-09-14",
-    "predictions": {
-      "result": {
-        "home_win": 30.4,
-        "draw": 15,
-        "away_win": 54.6
-      },
-      "btts": {
-        "yes": 62.1,
-        "no": 37.9
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-2",
-          "probability": 6.6
-        },
-        {
-          "score": "2-3",
-          "probability": 5.8
-        },
-        {
-          "score": "1-2",
-          "probability": 5.7
-        }
-      ]
-    }
-  },
-  {
-    "match": "Manchester City FC vs Manchester United FC",
-    "date": "2025-09-14",
-    "predictions": {
-      "result": {
-        "home_win": 47.2,
-        "draw": 15.0,
-        "away_win": 37.8
-      },
-      "btts": {
-        "yes": 60.9,
-        "no": 39.1
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-1",
-          "probability": 6.3
-        },
-        {
-          "score": "2-2",
-          "probability": 6.3
-        },
-        {
-          "score": "3-1",
-          "probability": 6.0
-        }
-      ]
-    }
-  },
-  {
     "match": "Liverpool FC vs Everton FC",
     "date": "2025-09-20",
     "predictions": {
       "result": {
-        "home_win": 51.9,
-        "draw": 15,
-        "away_win": 33.1
+        "home_win": 56.7,
+        "draw": 15.0,
+        "away_win": 28.3
       },
       "btts": {
-        "yes": 67.2,
-        "no": 32.8
+        "yes": 75.0,
+        "no": 25.0
       },
       "over_under_2_5": {
         "over": 85,
@@ -84,16 +18,16 @@
       },
       "top_scorelines": [
         {
-          "score": "3-1",
-          "probability": 6.2
-        },
-        {
           "score": "3-2",
-          "probability": 5.8
+          "probability": 5.5
         },
         {
-          "score": "4-1",
-          "probability": 5.4
+          "score": "4-2",
+          "probability": 4.8
+        },
+        {
+          "score": "2-2",
+          "probability": 4.7
         }
       ]
     }
@@ -141,25 +75,25 @@
         "away_win": 37.8
       },
       "btts": {
-        "yes": 31.7,
-        "no": 68.3
+        "yes": 28.7,
+        "no": 71.3
       },
       "over_under_2_5": {
-        "over": 84.4,
-        "under": 15.6
+        "over": 76.4,
+        "under": 23.6
       },
       "top_scorelines": [
         {
-          "score": "1-0",
-          "probability": 12.2
-        },
-        {
           "score": "1-1",
-          "probability": 12.2
+          "probability": 13.3
         },
         {
-          "score": "2-0",
-          "probability": 9.3
+          "score": "1-0",
+          "probability": 11.6
+        },
+        {
+          "score": "0-1",
+          "probability": 11.5
         }
       ]
     }
@@ -240,8 +174,8 @@
         "away_win": 48.6
       },
       "btts": {
-        "yes": 80.5,
-        "no": 19.5
+        "yes": 60.9,
+        "no": 39.1
       },
       "over_under_2_5": {
         "over": 85,
@@ -249,16 +183,16 @@
       },
       "top_scorelines": [
         {
-          "score": "3-3",
-          "probability": 4.9
+          "score": "2-2",
+          "probability": 6.7
+        },
+        {
+          "score": "1-2",
+          "probability": 5.8
         },
         {
           "score": "2-3",
-          "probability": 4.8
-        },
-        {
-          "score": "3-2",
-          "probability": 4.4
+          "probability": 5.7
         }
       ]
     }
@@ -325,6 +259,72 @@
         {
           "score": "4-1",
           "probability": 6.8
+        }
+      ]
+    }
+  },
+  {
+    "match": "Sunderland AFC vs Aston Villa FC",
+    "date": "2025-09-21",
+    "predictions": {
+      "result": {
+        "home_win": 69.5,
+        "draw": 15,
+        "away_win": 15.5
+      },
+      "btts": {
+        "yes": 48.4,
+        "no": 51.6
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-0",
+          "probability": 8.6
+        },
+        {
+          "score": "2-1",
+          "probability": 8.6
+        },
+        {
+          "score": "3-0",
+          "probability": 8.2
+        }
+      ]
+    }
+  },
+  {
+    "match": "Arsenal FC vs Manchester City FC",
+    "date": "2025-09-21",
+    "predictions": {
+      "result": {
+        "home_win": 55.0,
+        "draw": 15,
+        "away_win": 30.0
+      },
+      "btts": {
+        "yes": 85,
+        "no": 15
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-3",
+          "probability": 4.7
+        },
+        {
+          "score": "3-4",
+          "probability": 4.1
+        },
+        {
+          "score": "4-3",
+          "probability": 4.1
         }
       ]
     }

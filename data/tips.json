@@ -1,21 +1,9 @@
 [
   {
-    "match": "Burnley FC vs Liverpool FC",
-    "date": "2025-09-14",
-    "tip": "No Clear Favorite",
-    "confidence": "54.6%"
-  },
-  {
-    "match": "Manchester City FC vs Manchester United FC",
-    "date": "2025-09-14",
-    "tip": "No Clear Favorite",
-    "confidence": "47.2%"
-  },
-  {
     "match": "Liverpool FC vs Everton FC",
     "date": "2025-09-20",
-    "tip": "No Clear Favorite",
-    "confidence": "51.9%"
+    "tip": "Home Win",
+    "confidence": "56.7%"
   },
   {
     "match": "Brighton & Hove Albion FC vs Tottenham Hotspur FC",
@@ -58,5 +46,17 @@
     "date": "2025-09-21",
     "tip": "Home Win",
     "confidence": "58.4%"
+  },
+  {
+    "match": "Sunderland AFC vs Aston Villa FC",
+    "date": "2025-09-21",
+    "tip": "Home Win",
+    "confidence": "69.5%"
+  },
+  {
+    "match": "Arsenal FC vs Manchester City FC",
+    "date": "2025-09-21",
+    "tip": "No Clear Favorite",
+    "confidence": "55.0%"
   }
 ]

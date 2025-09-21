@@ -1,47 +1,5 @@
 [
   {
-    "match": "Liverpool FC vs Everton FC",
-    "date": "2025-09-20",
-    "tip": "Home Win",
-    "confidence": "56.7%"
-  },
-  {
-    "match": "Brighton & Hove Albion FC vs Tottenham Hotspur FC",
-    "date": "2025-09-20",
-    "tip": "No Clear Favorite",
-    "confidence": "51.0%"
-  },
-  {
-    "match": "Burnley FC vs Nottingham Forest FC",
-    "date": "2025-09-20",
-    "tip": "No Clear Favorite",
-    "confidence": "47.2%"
-  },
-  {
-    "match": "West Ham United FC vs Crystal Palace FC",
-    "date": "2025-09-20",
-    "tip": "No Clear Favorite",
-    "confidence": "46.4%"
-  },
-  {
-    "match": "Wolverhampton Wanderers FC vs Leeds United FC",
-    "date": "2025-09-20",
-    "tip": "Away Win",
-    "confidence": "56.7%"
-  },
-  {
-    "match": "Manchester United FC vs Chelsea FC",
-    "date": "2025-09-20",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
-    "match": "Fulham FC vs Brentford FC",
-    "date": "2025-09-20",
-    "tip": "No Clear Favorite",
-    "confidence": "54.1%"
-  },
-  {
     "match": "AFC Bournemouth vs Newcastle United FC",
     "date": "2025-09-21",
     "tip": "Home Win",
@@ -58,5 +16,47 @@
     "date": "2025-09-21",
     "tip": "No Clear Favorite",
     "confidence": "55.0%"
+  },
+  {
+    "match": "Brentford FC vs Manchester United FC",
+    "date": "2025-09-27",
+    "tip": "No Clear Favorite",
+    "confidence": "45.8%"
+  },
+  {
+    "match": "Crystal Palace FC vs Liverpool FC",
+    "date": "2025-09-27",
+    "tip": "No Clear Favorite",
+    "confidence": "49.0%"
+  },
+  {
+    "match": "Chelsea FC vs Brighton & Hove Albion FC",
+    "date": "2025-09-27",
+    "tip": "Home Win",
+    "confidence": "56.7%"
+  },
+  {
+    "match": "Leeds United FC vs AFC Bournemouth",
+    "date": "2025-09-27",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Manchester City FC vs Burnley FC",
+    "date": "2025-09-27",
+    "tip": "Home Win",
+    "confidence": "56.7%"
+  },
+  {
+    "match": "Nottingham Forest FC vs Sunderland AFC",
+    "date": "2025-09-27",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Wolverhampton Wanderers FC",
+    "date": "2025-09-27",
+    "tip": "Home Win",
+    "confidence": "70.0%"
   }
 ]

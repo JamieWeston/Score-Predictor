@@ -1,23 +1,5 @@
 [
   {
-    "match": "AFC Bournemouth vs Newcastle United FC",
-    "date": "2025-09-21",
-    "tip": "Home Win",
-    "confidence": "58.4%"
-  },
-  {
-    "match": "Sunderland AFC vs Aston Villa FC",
-    "date": "2025-09-21",
-    "tip": "Home Win",
-    "confidence": "69.5%"
-  },
-  {
-    "match": "Arsenal FC vs Manchester City FC",
-    "date": "2025-09-21",
-    "tip": "No Clear Favorite",
-    "confidence": "55.0%"
-  },
-  {
     "match": "Brentford FC vs Manchester United FC",
     "date": "2025-09-27",
     "tip": "No Clear Favorite",
@@ -39,24 +21,42 @@
     "match": "Leeds United FC vs AFC Bournemouth",
     "date": "2025-09-27",
     "tip": "No Clear Favorite",
-    "confidence": "42.5%"
+    "confidence": "44.7%"
   },
   {
     "match": "Manchester City FC vs Burnley FC",
     "date": "2025-09-27",
     "tip": "Home Win",
-    "confidence": "56.7%"
+    "confidence": "58.8%"
   },
   {
     "match": "Nottingham Forest FC vs Sunderland AFC",
     "date": "2025-09-27",
     "tip": "No Clear Favorite",
-    "confidence": "42.5%"
+    "confidence": "45.3%"
   },
   {
     "match": "Tottenham Hotspur FC vs Wolverhampton Wanderers FC",
     "date": "2025-09-27",
     "tip": "Home Win",
     "confidence": "70.0%"
+  },
+  {
+    "match": "Aston Villa FC vs Fulham FC",
+    "date": "2025-09-28",
+    "tip": "No Clear Favorite",
+    "confidence": "52.3%"
+  },
+  {
+    "match": "Newcastle United FC vs Arsenal FC",
+    "date": "2025-09-28",
+    "tip": "No Clear Favorite",
+    "confidence": "47.2%"
+  },
+  {
+    "match": "Everton FC vs West Ham United FC",
+    "date": "2025-09-29",
+    "tip": "Home Win",
+    "confidence": "63.8%"
   }
 ]

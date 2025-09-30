@@ -1,38 +1,5 @@
 [
   {
-    "match": "Everton FC vs West Ham United FC",
-    "date": "2025-09-29",
-    "predictions": {
-      "result": {
-        "home_win": 63.8,
-        "draw": 15.0,
-        "away_win": 21.2
-      },
-      "btts": {
-        "yes": 38.3,
-        "no": 61.7
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "1-1",
-          "probability": 9.9
-        },
-        {
-          "score": "1-2",
-          "probability": 9.9
-        },
-        {
-          "score": "0-1",
-          "probability": 9.4
-        }
-      ]
-    }
-  },
-  {
     "match": "AFC Bournemouth vs Fulham FC",
     "date": "2025-10-03",
     "predictions": {
@@ -103,13 +70,13 @@
     "date": "2025-10-04",
     "predictions": {
       "result": {
-        "home_win": 68.0,
+        "home_win": 63.8,
         "draw": 15.0,
-        "away_win": 17.0
+        "away_win": 21.2
       },
       "btts": {
-        "yes": 49.3,
-        "no": 50.7
+        "yes": 58.7,
+        "no": 41.3
       },
       "over_under_2_5": {
         "over": 85,
@@ -117,16 +84,16 @@
       },
       "top_scorelines": [
         {
-          "score": "1-1",
-          "probability": 7.5
+          "score": "2-2",
+          "probability": 6.9
         },
         {
           "score": "1-2",
-          "probability": 7.5
+          "probability": 6.0
         },
         {
           "score": "2-1",
-          "probability": 7.3
+          "probability": 5.8
         }
       ]
     }
@@ -235,13 +202,13 @@
     "date": "2025-10-05",
     "predictions": {
       "result": {
-        "home_win": 38.2,
-        "draw": 15,
-        "away_win": 46.8
+        "home_win": 40.5,
+        "draw": 15.0,
+        "away_win": 44.5
       },
       "btts": {
-        "yes": 74.5,
-        "no": 25.5
+        "yes": 80.2,
+        "no": 19.8
       },
       "over_under_2_5": {
         "over": 85,
@@ -249,16 +216,16 @@
       },
       "top_scorelines": [
         {
-          "score": "2-3",
-          "probability": 5.4
-        },
-        {
-          "score": "2-2",
-          "probability": 5.0
-        },
-        {
           "score": "3-3",
           "probability": 4.9
+        },
+        {
+          "score": "3-2",
+          "probability": 4.6
+        },
+        {
+          "score": "2-3",
+          "probability": 4.6
         }
       ]
     }
@@ -325,6 +292,39 @@
         {
           "score": "0-1",
           "probability": 9.5
+        }
+      ]
+    }
+  },
+  {
+    "match": "Brentford FC vs Manchester City FC",
+    "date": "2025-10-05",
+    "predictions": {
+      "result": {
+        "home_win": 47.8,
+        "draw": 15.0,
+        "away_win": 37.2
+      },
+      "btts": {
+        "yes": 69.6,
+        "no": 30.4
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-2",
+          "probability": 5.7
+        },
+        {
+          "score": "2-2",
+          "probability": 5.6
+        },
+        {
+          "score": "3-3",
+          "probability": 4.8
         }
       ]
     }

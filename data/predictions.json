@@ -1,38 +1,5 @@
 [
   {
-    "match": "AFC Bournemouth vs Fulham FC",
-    "date": "2025-10-03",
-    "predictions": {
-      "result": {
-        "home_win": 55.2,
-        "draw": 15.0,
-        "away_win": 29.7
-      },
-      "btts": {
-        "yes": 54.6,
-        "no": 45.4
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "1-2",
-          "probability": 7.2
-        },
-        {
-          "score": "2-2",
-          "probability": 7.1
-        },
-        {
-          "score": "1-1",
-          "probability": 6.0
-        }
-      ]
-    }
-  },
-  {
     "match": "Leeds United FC vs Tottenham Hotspur FC",
     "date": "2025-10-04",
     "predictions": {
@@ -325,6 +292,39 @@
         {
           "score": "3-3",
           "probability": 4.8
+        }
+      ]
+    }
+  },
+  {
+    "match": "Nottingham Forest FC vs Chelsea FC",
+    "date": "2025-10-18",
+    "predictions": {
+      "result": {
+        "home_win": 30.9,
+        "draw": 15.0,
+        "away_win": 54.1
+      },
+      "btts": {
+        "yes": 38.4,
+        "no": 61.6
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "0-2",
+          "probability": 13.9
+        },
+        {
+          "score": "0-1",
+          "probability": 11.4
+        },
+        {
+          "score": "0-3",
+          "probability": 11.3
         }
       ]
     }

@@ -1,11 +1,5 @@
 [
   {
-    "match": "AFC Bournemouth vs Fulham FC",
-    "date": "2025-10-03",
-    "tip": "Home Win",
-    "confidence": "55.2%"
-  },
-  {
     "match": "Leeds United FC vs Tottenham Hotspur FC",
     "date": "2025-10-04",
     "tip": "No Clear Favorite",
@@ -58,5 +52,11 @@
     "date": "2025-10-05",
     "tip": "No Clear Favorite",
     "confidence": "47.8%"
+  },
+  {
+    "match": "Nottingham Forest FC vs Chelsea FC",
+    "date": "2025-10-18",
+    "tip": "No Clear Favorite",
+    "confidence": "54.1%"
   }
 ]

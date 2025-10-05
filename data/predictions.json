@@ -1,137 +1,5 @@
 [
   {
-    "match": "Leeds United FC vs Tottenham Hotspur FC",
-    "date": "2025-10-04",
-    "predictions": {
-      "result": {
-        "home_win": 39.7,
-        "draw": 15.0,
-        "away_win": 45.3
-      },
-      "btts": {
-        "yes": 51.0,
-        "no": 49.0
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-1",
-          "probability": 8.0
-        },
-        {
-          "score": "2-2",
-          "probability": 7.1
-        },
-        {
-          "score": "1-1",
-          "probability": 6.9
-        }
-      ]
-    }
-  },
-  {
-    "match": "Arsenal FC vs West Ham United FC",
-    "date": "2025-10-04",
-    "predictions": {
-      "result": {
-        "home_win": 63.8,
-        "draw": 15.0,
-        "away_win": 21.2
-      },
-      "btts": {
-        "yes": 58.7,
-        "no": 41.3
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-2",
-          "probability": 6.9
-        },
-        {
-          "score": "1-2",
-          "probability": 6.0
-        },
-        {
-          "score": "2-1",
-          "probability": 5.8
-        }
-      ]
-    }
-  },
-  {
-    "match": "Manchester United FC vs Sunderland AFC",
-    "date": "2025-10-04",
-    "predictions": {
-      "result": {
-        "home_win": 45.0,
-        "draw": 15.0,
-        "away_win": 40.0
-      },
-      "btts": {
-        "yes": 50.2,
-        "no": 49.8
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-0",
-          "probability": 10.0
-        },
-        {
-          "score": "2-0",
-          "probability": 9.3
-        },
-        {
-          "score": "4-0",
-          "probability": 8.0
-        }
-      ]
-    }
-  },
-  {
-    "match": "Chelsea FC vs Liverpool FC",
-    "date": "2025-10-04",
-    "predictions": {
-      "result": {
-        "home_win": 36.4,
-        "draw": 15.0,
-        "away_win": 48.6
-      },
-      "btts": {
-        "yes": 68.8,
-        "no": 31.2
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-1",
-          "probability": 5.8
-        },
-        {
-          "score": "3-2",
-          "probability": 5.8
-        },
-        {
-          "score": "4-1",
-          "probability": 5.1
-        }
-      ]
-    }
-  },
-  {
     "match": "Aston Villa FC vs Burnley FC",
     "date": "2025-10-05",
     "predictions": {
@@ -306,8 +174,41 @@
         "away_win": 54.1
       },
       "btts": {
-        "yes": 38.4,
-        "no": 61.6
+        "yes": 30.0,
+        "no": 70.0
+      },
+      "over_under_2_5": {
+        "over": 80.1,
+        "under": 19.9
+      },
+      "top_scorelines": [
+        {
+          "score": "0-1",
+          "probability": 16.1
+        },
+        {
+          "score": "0-2",
+          "probability": 14.3
+        },
+        {
+          "score": "1-1",
+          "probability": 10.1
+        }
+      ]
+    }
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs Newcastle United FC",
+    "date": "2025-10-18",
+    "predictions": {
+      "result": {
+        "home_win": 54.6,
+        "draw": 15,
+        "away_win": 30.4
+      },
+      "btts": {
+        "yes": 56.2,
+        "no": 43.8
       },
       "over_under_2_5": {
         "over": 85,
@@ -315,16 +216,115 @@
       },
       "top_scorelines": [
         {
-          "score": "0-2",
-          "probability": 13.9
+          "score": "3-0",
+          "probability": 7.9
         },
         {
-          "score": "0-1",
-          "probability": 11.4
+          "score": "3-1",
+          "probability": 7.9
         },
         {
-          "score": "0-3",
-          "probability": 11.3
+          "score": "4-0",
+          "probability": 6.9
+        }
+      ]
+    }
+  },
+  {
+    "match": "Crystal Palace FC vs AFC Bournemouth",
+    "date": "2025-10-18",
+    "predictions": {
+      "result": {
+        "home_win": 46.0,
+        "draw": 15.0,
+        "away_win": 39.0
+      },
+      "btts": {
+        "yes": 83.8,
+        "no": 16.2
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-3",
+          "probability": 4.8
+        },
+        {
+          "score": "3-2",
+          "probability": 4.5
+        },
+        {
+          "score": "4-3",
+          "probability": 4.2
+        }
+      ]
+    }
+  },
+  {
+    "match": "Burnley FC vs Leeds United FC",
+    "date": "2025-10-18",
+    "predictions": {
+      "result": {
+        "home_win": 46.4,
+        "draw": 15.0,
+        "away_win": 38.6
+      },
+      "btts": {
+        "yes": 43.8,
+        "no": 56.2
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-1",
+          "probability": 9.6
+        },
+        {
+          "score": "1-1",
+          "probability": 8.3
+        },
+        {
+          "score": "2-0",
+          "probability": 8.0
+        }
+      ]
+    }
+  },
+  {
+    "match": "Manchester City FC vs Everton FC",
+    "date": "2025-10-18",
+    "predictions": {
+      "result": {
+        "home_win": 45.0,
+        "draw": 15.0,
+        "away_win": 40.0
+      },
+      "btts": {
+        "yes": 72.9,
+        "no": 27.1
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-2",
+          "probability": 5.7
+        },
+        {
+          "score": "4-2",
+          "probability": 5.0
+        },
+        {
+          "score": "3-1",
+          "probability": 4.9
         }
       ]
     }

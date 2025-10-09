@@ -1,61 +1,61 @@
 [
   {
-    "match": "Nottingham Forest FC vs Chelsea FC",
-    "date": "2025-10-18",
-    "tip": "Away Win",
-    "confidence": "59.5%"
-  },
-  {
-    "match": "Brighton & Hove Albion FC vs Newcastle United FC",
-    "date": "2025-10-18",
+    "match": "Newcastle United vs Manchester City",
+    "date": "2025-10-09",
     "tip": "No Clear Favorite",
-    "confidence": "47.2%"
+    "confidence": "45.8%"
   },
   {
-    "match": "Crystal Palace FC vs AFC Bournemouth",
-    "date": "2025-10-18",
+    "match": "West Ham United vs Aston Villa",
+    "date": "2025-10-09",
     "tip": "No Clear Favorite",
-    "confidence": "44.3%"
+    "confidence": "55.0%"
   },
   {
-    "match": "Burnley FC vs Leeds United FC",
-    "date": "2025-10-18",
+    "match": "Wolverhampton Wanderers vs Manchester City",
+    "date": "2025-10-10",
     "tip": "No Clear Favorite",
     "confidence": "53.1%"
   },
   {
-    "match": "Manchester City FC vs Everton FC",
-    "date": "2025-10-18",
-    "tip": "No Clear Favorite",
-    "confidence": "51.0%"
-  },
-  {
-    "match": "Sunderland AFC vs Wolverhampton Wanderers FC",
-    "date": "2025-10-18",
+    "match": "Liverpool vs Bournemouth",
+    "date": "2025-10-11",
     "tip": "Home Win",
-    "confidence": "70.0%"
+    "confidence": "63.8%"
   },
   {
-    "match": "Fulham FC vs Arsenal FC",
-    "date": "2025-10-18",
+    "match": "Crystal Palace vs Manchester United",
+    "date": "2025-10-12",
+    "tip": "No Clear Favorite",
+    "confidence": "51.7%"
+  },
+  {
+    "match": "Nottingham Forest vs Chelsea",
+    "date": "2025-10-12",
+    "tip": "No Clear Favorite",
+    "confidence": "45.3%"
+  },
+  {
+    "match": "Brentford vs Everton",
+    "date": "2025-10-13",
     "tip": "No Clear Favorite",
     "confidence": "47.2%"
   },
   {
-    "match": "Tottenham Hotspur FC vs Aston Villa FC",
-    "date": "2025-10-19",
+    "match": "Southampton vs Wolverhampton Wanderers",
+    "date": "2025-10-14",
     "tip": "No Clear Favorite",
-    "confidence": "47.2%"
+    "confidence": "45.0%"
   },
   {
-    "match": "Liverpool FC vs Manchester United FC",
-    "date": "2025-10-19",
+    "match": "Arsenal vs West Ham United",
+    "date": "2025-10-14",
     "tip": "No Clear Favorite",
-    "confidence": "46.8%"
+    "confidence": "42.5%"
   },
   {
-    "match": "West Ham United FC vs Brentford FC",
-    "date": "2025-10-20",
+    "match": "Arsenal vs Nottingham Forest",
+    "date": "2025-10-15",
     "tip": "No Clear Favorite",
     "confidence": "51.0%"
   }

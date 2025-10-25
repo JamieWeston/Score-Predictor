@@ -1,11 +1,5 @@
 [
   {
-    "match": "Leeds United FC vs West Ham United FC",
-    "date": "2025-10-24",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
     "match": "Chelsea FC vs Sunderland AFC",
     "date": "2025-10-25",
     "tip": "No Clear Favorite",
@@ -58,5 +52,11 @@
     "date": "2025-10-26",
     "tip": "No Clear Favorite",
     "confidence": "45.3%"
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs Leeds United FC",
+    "date": "2025-11-01",
+    "tip": "No Clear Favorite",
+    "confidence": "50.0%"
   }
 ]

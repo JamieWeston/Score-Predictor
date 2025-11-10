@@ -1,35 +1,5 @@
 [
   {
-    "match": "Aston Villa FC vs AFC Bournemouth",
-    "date": "2025-11-09",
-    "tip": "No Clear Favorite",
-    "confidence": "54.1%"
-  },
-  {
-    "match": "Crystal Palace FC vs Brighton & Hove Albion FC",
-    "date": "2025-11-09",
-    "tip": "No Clear Favorite",
-    "confidence": "44.7%"
-  },
-  {
-    "match": "Brentford FC vs Newcastle United FC",
-    "date": "2025-11-09",
-    "tip": "No Clear Favorite",
-    "confidence": "55.0%"
-  },
-  {
-    "match": "Nottingham Forest FC vs Leeds United FC",
-    "date": "2025-11-09",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
-    "match": "Manchester City FC vs Liverpool FC",
-    "date": "2025-11-09",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
     "match": "Burnley FC vs Chelsea FC",
     "date": "2025-11-22",
     "tip": "No Clear Favorite",
@@ -39,13 +9,13 @@
     "match": "AFC Bournemouth vs West Ham United FC",
     "date": "2025-11-22",
     "tip": "No Clear Favorite",
-    "confidence": "53.1%"
+    "confidence": "51.0%"
   },
   {
     "match": "Brighton & Hove Albion FC vs Brentford FC",
     "date": "2025-11-22",
     "tip": "No Clear Favorite",
-    "confidence": "48.6%"
+    "confidence": "44.7%"
   },
   {
     "match": "Fulham FC vs Sunderland AFC",
@@ -56,7 +26,37 @@
   {
     "match": "Liverpool FC vs Nottingham Forest FC",
     "date": "2025-11-22",
+    "tip": "No Clear Favorite",
+    "confidence": "47.2%"
+  },
+  {
+    "match": "Wolverhampton Wanderers FC vs Crystal Palace FC",
+    "date": "2025-11-22",
+    "tip": "No Clear Favorite",
+    "confidence": "53.1%"
+  },
+  {
+    "match": "Newcastle United FC vs Manchester City FC",
+    "date": "2025-11-22",
+    "tip": "No Clear Favorite",
+    "confidence": "51.0%"
+  },
+  {
+    "match": "Leeds United FC vs Aston Villa FC",
+    "date": "2025-11-23",
+    "tip": "Away Win",
+    "confidence": "60.0%"
+  },
+  {
+    "match": "Arsenal FC vs Tottenham Hotspur FC",
+    "date": "2025-11-23",
     "tip": "Home Win",
-    "confidence": "70.0%"
+    "confidence": "58.0%"
+  },
+  {
+    "match": "Manchester United FC vs Everton FC",
+    "date": "2025-11-24",
+    "tip": "Home Win",
+    "confidence": "55.2%"
   }
 ]

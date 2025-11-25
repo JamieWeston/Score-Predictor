@@ -1,38 +1,5 @@
 [
   {
-    "match": "Manchester United FC vs Everton FC",
-    "date": "2025-11-24",
-    "predictions": {
-      "result": {
-        "home_win": 55.2,
-        "draw": 15.0,
-        "away_win": 29.7
-      },
-      "btts": {
-        "yes": 61.6,
-        "no": 38.4
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-1",
-          "probability": 7.4
-        },
-        {
-          "score": "4-1",
-          "probability": 6.5
-        },
-        {
-          "score": "2-1",
-          "probability": 6.3
-        }
-      ]
-    }
-  },
-  {
     "match": "Sunderland AFC vs AFC Bournemouth",
     "date": "2025-11-29",
     "predictions": {
@@ -141,8 +108,8 @@
         "away_win": 34.0
       },
       "btts": {
-        "yes": 39.4,
-        "no": 60.6
+        "yes": 40.7,
+        "no": 59.3
       },
       "over_under_2_5": {
         "over": 85,
@@ -150,16 +117,16 @@
       },
       "top_scorelines": [
         {
-          "score": "1-1",
-          "probability": 9.9
+          "score": "0-2",
+          "probability": 10.5
         },
         {
           "score": "1-2",
-          "probability": 9.9
+          "probability": 9.7
         },
         {
           "score": "0-1",
-          "probability": 8.6
+          "probability": 9.0
         }
       ]
     }
@@ -202,13 +169,13 @@
     "date": "2025-11-30",
     "predictions": {
       "result": {
-        "home_win": 40.5,
+        "home_win": 47.2,
         "draw": 15.0,
-        "away_win": 44.5
+        "away_win": 37.8
       },
       "btts": {
-        "yes": 72.5,
-        "no": 27.5
+        "yes": 68.9,
+        "no": 31.1
       },
       "over_under_2_5": {
         "over": 85,
@@ -217,15 +184,15 @@
       "top_scorelines": [
         {
           "score": "2-3",
-          "probability": 5.7
-        },
-        {
-          "score": "2-4",
-          "probability": 5.0
+          "probability": 5.8
         },
         {
           "score": "1-3",
-          "probability": 5.0
+          "probability": 5.8
+        },
+        {
+          "score": "2-4",
+          "probability": 5.1
         }
       ]
     }
@@ -325,6 +292,39 @@
         {
           "score": "1-0",
           "probability": 9.4
+        }
+      ]
+    }
+  },
+  {
+    "match": "Chelsea FC vs Arsenal FC",
+    "date": "2025-11-30",
+    "predictions": {
+      "result": {
+        "home_win": 44.1,
+        "draw": 15.0,
+        "away_win": 40.9
+      },
+      "btts": {
+        "yes": 85,
+        "no": 15
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-3",
+          "probability": 4.7
+        },
+        {
+          "score": "3-4",
+          "probability": 4.1
+        },
+        {
+          "score": "4-3",
+          "probability": 4.1
         }
       ]
     }

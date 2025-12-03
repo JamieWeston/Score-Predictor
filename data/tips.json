@@ -1,23 +1,5 @@
 [
   {
-    "match": "AFC Bournemouth vs Everton FC",
-    "date": "2025-12-02",
-    "tip": "No Clear Favorite",
-    "confidence": "45.8%"
-  },
-  {
-    "match": "Fulham FC vs Manchester City FC",
-    "date": "2025-12-02",
-    "tip": "No Clear Favorite",
-    "confidence": "46.8%"
-  },
-  {
-    "match": "Newcastle United FC vs Tottenham Hotspur FC",
-    "date": "2025-12-02",
-    "tip": "Home Win",
-    "confidence": "62.3%"
-  },
-  {
     "match": "Brighton & Hove Albion FC vs Aston Villa FC",
     "date": "2025-12-03",
     "tip": "No Clear Favorite",
@@ -58,5 +40,23 @@
     "date": "2025-12-04",
     "tip": "No Clear Favorite",
     "confidence": "50.0%"
+  },
+  {
+    "match": "Aston Villa FC vs Arsenal FC",
+    "date": "2025-12-06",
+    "tip": "No Clear Favorite",
+    "confidence": "47.6%"
+  },
+  {
+    "match": "AFC Bournemouth vs Chelsea FC",
+    "date": "2025-12-06",
+    "tip": "Away Win",
+    "confidence": "65.0%"
+  },
+  {
+    "match": "Everton FC vs Nottingham Forest FC",
+    "date": "2025-12-06",
+    "tip": "No Clear Favorite",
+    "confidence": "53.7%"
   }
 ]

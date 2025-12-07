@@ -1,47 +1,5 @@
 [
   {
-    "match": "Aston Villa FC vs Arsenal FC",
-    "date": "2025-12-06",
-    "tip": "No Clear Favorite",
-    "confidence": "47.6%"
-  },
-  {
-    "match": "AFC Bournemouth vs Chelsea FC",
-    "date": "2025-12-06",
-    "tip": "Away Win",
-    "confidence": "65.0%"
-  },
-  {
-    "match": "Everton FC vs Nottingham Forest FC",
-    "date": "2025-12-06",
-    "tip": "No Clear Favorite",
-    "confidence": "46.4%"
-  },
-  {
-    "match": "Manchester City FC vs Sunderland AFC",
-    "date": "2025-12-06",
-    "tip": "Home Win",
-    "confidence": "59.5%"
-  },
-  {
-    "match": "Newcastle United FC vs Burnley FC",
-    "date": "2025-12-06",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
-    "match": "Tottenham Hotspur FC vs Brentford FC",
-    "date": "2025-12-06",
-    "tip": "No Clear Favorite",
-    "confidence": "51.0%"
-  },
-  {
-    "match": "Leeds United FC vs Liverpool FC",
-    "date": "2025-12-06",
-    "tip": "No Clear Favorite",
-    "confidence": "49.6%"
-  },
-  {
     "match": "Brighton & Hove Albion FC vs West Ham United FC",
     "date": "2025-12-07",
     "tip": "No Clear Favorite",
@@ -58,5 +16,47 @@
     "date": "2025-12-08",
     "tip": "Away Win",
     "confidence": "63.8%"
+  },
+  {
+    "match": "Chelsea FC vs Everton FC",
+    "date": "2025-12-13",
+    "tip": "No Clear Favorite",
+    "confidence": "46.4%"
+  },
+  {
+    "match": "Liverpool FC vs Brighton & Hove Albion FC",
+    "date": "2025-12-13",
+    "tip": "No Clear Favorite",
+    "confidence": "50.0%"
+  },
+  {
+    "match": "Burnley FC vs Fulham FC",
+    "date": "2025-12-13",
+    "tip": "Away Win",
+    "confidence": "65.0%"
+  },
+  {
+    "match": "Arsenal FC vs Wolverhampton Wanderers FC",
+    "date": "2025-12-13",
+    "tip": "Home Win",
+    "confidence": "70.0%"
+  },
+  {
+    "match": "Sunderland AFC vs Newcastle United FC",
+    "date": "2025-12-14",
+    "tip": "No Clear Favorite",
+    "confidence": "50.0%"
+  },
+  {
+    "match": "Crystal Palace FC vs Manchester City FC",
+    "date": "2025-12-14",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Nottingham Forest FC vs Tottenham Hotspur FC",
+    "date": "2025-12-14",
+    "tip": "Home Win",
+    "confidence": "58.4%"
   }
 ]

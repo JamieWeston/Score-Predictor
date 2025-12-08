@@ -1,17 +1,5 @@
 [
   {
-    "match": "Brighton & Hove Albion FC vs West Ham United FC",
-    "date": "2025-12-07",
-    "tip": "No Clear Favorite",
-    "confidence": "51.0%"
-  },
-  {
-    "match": "Fulham FC vs Crystal Palace FC",
-    "date": "2025-12-07",
-    "tip": "No Clear Favorite",
-    "confidence": "44.5%"
-  },
-  {
     "match": "Wolverhampton Wanderers FC vs Manchester United FC",
     "date": "2025-12-08",
     "tip": "Away Win",
@@ -27,13 +15,13 @@
     "match": "Liverpool FC vs Brighton & Hove Albion FC",
     "date": "2025-12-13",
     "tip": "No Clear Favorite",
-    "confidence": "50.0%"
+    "confidence": "45.3%"
   },
   {
     "match": "Burnley FC vs Fulham FC",
     "date": "2025-12-13",
     "tip": "Away Win",
-    "confidence": "65.0%"
+    "confidence": "63.8%"
   },
   {
     "match": "Arsenal FC vs Wolverhampton Wanderers FC",
@@ -58,5 +46,17 @@
     "date": "2025-12-14",
     "tip": "Home Win",
     "confidence": "58.4%"
+  },
+  {
+    "match": "West Ham United FC vs Aston Villa FC",
+    "date": "2025-12-14",
+    "tip": "Away Win",
+    "confidence": "55.4%"
+  },
+  {
+    "match": "Brentford FC vs Leeds United FC",
+    "date": "2025-12-14",
+    "tip": "Home Win",
+    "confidence": "56.7%"
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "match": "Wolverhampton Wanderers FC vs Manchester United FC",
-    "date": "2025-12-08",
-    "predictions": {
-      "result": {
-        "home_win": 21.2,
-        "draw": 15.0,
-        "away_win": 63.8
-      },
-      "btts": {
-        "yes": 26.4,
-        "no": 73.6
-      },
-      "over_under_2_5": {
-        "over": 70.5,
-        "under": 29.5
-      },
-      "top_scorelines": [
-        {
-          "score": "0-1",
-          "probability": 16.9
-        },
-        {
-          "score": "1-1",
-          "probability": 12.1
-        },
-        {
-          "score": "0-0",
-          "probability": 12.1
-        }
-      ]
-    }
-  },
-  {
     "match": "Chelsea FC vs Everton FC",
     "date": "2025-12-13",
     "predictions": {
@@ -141,8 +108,8 @@
         "away_win": 15
       },
       "btts": {
-        "yes": 39.2,
-        "no": 60.8
+        "yes": 36.6,
+        "no": 63.4
       },
       "over_under_2_5": {
         "over": 85,
@@ -151,15 +118,15 @@
       "top_scorelines": [
         {
           "score": "2-0",
-          "probability": 11.5
+          "probability": 11.7
         },
         {
           "score": "1-0",
-          "probability": 10.0
+          "probability": 11.2
         },
         {
           "score": "2-1",
-          "probability": 9.6
+          "probability": 9.8
         }
       ]
     }
@@ -325,6 +292,39 @@
         {
           "score": "1-1",
           "probability": 7.2
+        }
+      ]
+    }
+  },
+  {
+    "match": "Manchester United FC vs AFC Bournemouth",
+    "date": "2025-12-15",
+    "predictions": {
+      "result": {
+        "home_win": 70,
+        "draw": 15,
+        "away_win": 15
+      },
+      "btts": {
+        "yes": 42.5,
+        "no": 57.5
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-1",
+          "probability": 9.5
+        },
+        {
+          "score": "1-1",
+          "probability": 9.2
+        },
+        {
+          "score": "2-0",
+          "probability": 7.1
         }
       ]
     }

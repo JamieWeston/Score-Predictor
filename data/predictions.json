@@ -1,137 +1,5 @@
 [
   {
-    "match": "Chelsea FC vs Everton FC",
-    "date": "2025-12-13",
-    "predictions": {
-      "result": {
-        "home_win": 38.6,
-        "draw": 15.0,
-        "away_win": 46.4
-      },
-      "btts": {
-        "yes": 80.2,
-        "no": 19.8
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-3",
-          "probability": 4.9
-        },
-        {
-          "score": "3-2",
-          "probability": 4.6
-        },
-        {
-          "score": "2-3",
-          "probability": 4.6
-        }
-      ]
-    }
-  },
-  {
-    "match": "Liverpool FC vs Brighton & Hove Albion FC",
-    "date": "2025-12-13",
-    "predictions": {
-      "result": {
-        "home_win": 39.7,
-        "draw": 15.0,
-        "away_win": 45.3
-      },
-      "btts": {
-        "yes": 48.8,
-        "no": 51.2
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-1",
-          "probability": 8.6
-        },
-        {
-          "score": "1-1",
-          "probability": 7.4
-        },
-        {
-          "score": "2-2",
-          "probability": 6.9
-        }
-      ]
-    }
-  },
-  {
-    "match": "Burnley FC vs Fulham FC",
-    "date": "2025-12-13",
-    "predictions": {
-      "result": {
-        "home_win": 21.2,
-        "draw": 15.0,
-        "away_win": 63.8
-      },
-      "btts": {
-        "yes": 29.7,
-        "no": 70.3
-      },
-      "over_under_2_5": {
-        "over": 79.2,
-        "under": 20.8
-      },
-      "top_scorelines": [
-        {
-          "score": "0-1",
-          "probability": 13.5
-        },
-        {
-          "score": "1-1",
-          "probability": 12.5
-        },
-        {
-          "score": "0-2",
-          "probability": 9.8
-        }
-      ]
-    }
-  },
-  {
-    "match": "Arsenal FC vs Wolverhampton Wanderers FC",
-    "date": "2025-12-13",
-    "predictions": {
-      "result": {
-        "home_win": 70,
-        "draw": 15,
-        "away_win": 15
-      },
-      "btts": {
-        "yes": 36.6,
-        "no": 63.4
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-0",
-          "probability": 11.7
-        },
-        {
-          "score": "1-0",
-          "probability": 11.2
-        },
-        {
-          "score": "2-1",
-          "probability": 9.8
-        }
-      ]
-    }
-  },
-  {
     "match": "Sunderland AFC vs Newcastle United FC",
     "date": "2025-12-14",
     "predictions": {
@@ -325,6 +193,138 @@
         {
           "score": "2-0",
           "probability": 7.1
+        }
+      ]
+    }
+  },
+  {
+    "match": "Newcastle United FC vs Chelsea FC",
+    "date": "2025-12-20",
+    "predictions": {
+      "result": {
+        "home_win": 51.0,
+        "draw": 15.0,
+        "away_win": 34.0
+      },
+      "btts": {
+        "yes": 62.5,
+        "no": 37.5
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-1",
+          "probability": 7.2
+        },
+        {
+          "score": "4-1",
+          "probability": 6.3
+        },
+        {
+          "score": "2-1",
+          "probability": 6.2
+        }
+      ]
+    }
+  },
+  {
+    "match": "AFC Bournemouth vs Burnley FC",
+    "date": "2025-12-20",
+    "predictions": {
+      "result": {
+        "home_win": 70,
+        "draw": 15,
+        "away_win": 15
+      },
+      "btts": {
+        "yes": 25,
+        "no": 75
+      },
+      "over_under_2_5": {
+        "over": 54.5,
+        "under": 45.5
+      },
+      "top_scorelines": [
+        {
+          "score": "0-0",
+          "probability": 19.5
+        },
+        {
+          "score": "1-0",
+          "probability": 16.3
+        },
+        {
+          "score": "0-1",
+          "probability": 15.6
+        }
+      ]
+    }
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs Sunderland AFC",
+    "date": "2025-12-20",
+    "predictions": {
+      "result": {
+        "home_win": 54.6,
+        "draw": 15,
+        "away_win": 30.4
+      },
+      "btts": {
+        "yes": 44.3,
+        "no": 55.7
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-1",
+          "probability": 9.1
+        },
+        {
+          "score": "1-1",
+          "probability": 8.9
+        },
+        {
+          "score": "2-2",
+          "probability": 6.8
+        }
+      ]
+    }
+  },
+  {
+    "match": "Manchester City FC vs West Ham United FC",
+    "date": "2025-12-20",
+    "predictions": {
+      "result": {
+        "home_win": 59.5,
+        "draw": 15.0,
+        "away_win": 25.5
+      },
+      "btts": {
+        "yes": 65.6,
+        "no": 34.4
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-1",
+          "probability": 6.6
+        },
+        {
+          "score": "3-2",
+          "probability": 5.7
+        },
+        {
+          "score": "4-1",
+          "probability": 5.7
         }
       ]
     }

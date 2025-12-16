@@ -1,11 +1,5 @@
 [
   {
-    "match": "Manchester United FC vs AFC Bournemouth",
-    "date": "2025-12-15",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
     "match": "Newcastle United FC vs Chelsea FC",
     "date": "2025-12-20",
     "tip": "No Clear Favorite",
@@ -58,5 +52,11 @@
     "date": "2025-12-21",
     "tip": "Home Win",
     "confidence": "57.8%"
+  },
+  {
+    "match": "Fulham FC vs Nottingham Forest FC",
+    "date": "2025-12-22",
+    "tip": "No Clear Favorite",
+    "confidence": "46.8%"
   }
 ]

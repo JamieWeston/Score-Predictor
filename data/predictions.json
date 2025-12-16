@@ -1,38 +1,5 @@
 [
   {
-    "match": "Manchester United FC vs AFC Bournemouth",
-    "date": "2025-12-15",
-    "predictions": {
-      "result": {
-        "home_win": 70,
-        "draw": 15,
-        "away_win": 15
-      },
-      "btts": {
-        "yes": 42.5,
-        "no": 57.5
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-1",
-          "probability": 9.5
-        },
-        {
-          "score": "1-1",
-          "probability": 9.2
-        },
-        {
-          "score": "2-0",
-          "probability": 7.1
-        }
-      ]
-    }
-  },
-  {
     "match": "Newcastle United FC vs Chelsea FC",
     "date": "2025-12-20",
     "predictions": {
@@ -75,25 +42,25 @@
         "away_win": 15
       },
       "btts": {
-        "yes": 25,
-        "no": 75
+        "yes": 30.9,
+        "no": 69.1
       },
       "over_under_2_5": {
-        "over": 54.5,
-        "under": 45.5
+        "over": 82.4,
+        "under": 17.6
       },
       "top_scorelines": [
         {
-          "score": "0-0",
-          "probability": 19.5
-        },
-        {
           "score": "1-0",
-          "probability": 16.3
+          "probability": 14.1
         },
         {
-          "score": "0-1",
-          "probability": 15.6
+          "score": "2-0",
+          "probability": 11.8
+        },
+        {
+          "score": "1-1",
+          "probability": 11.3
         }
       ]
     }
@@ -306,8 +273,8 @@
         "away_win": 27.2
       },
       "btts": {
-        "yes": 75.9,
-        "no": 24.1
+        "yes": 82.4,
+        "no": 17.6
       },
       "over_under_2_5": {
         "over": 85,
@@ -315,16 +282,49 @@
       },
       "top_scorelines": [
         {
-          "score": "3-2",
-          "probability": 5.5
-        },
-        {
-          "score": "4-2",
-          "probability": 4.8
-        },
-        {
           "score": "3-3",
-          "probability": 4.7
+          "probability": 4.9
+        },
+        {
+          "score": "3-2",
+          "probability": 4.6
+        },
+        {
+          "score": "2-3",
+          "probability": 4.2
+        }
+      ]
+    }
+  },
+  {
+    "match": "Fulham FC vs Nottingham Forest FC",
+    "date": "2025-12-22",
+    "predictions": {
+      "result": {
+        "home_win": 46.8,
+        "draw": 15,
+        "away_win": 38.2
+      },
+      "btts": {
+        "yes": 61.3,
+        "no": 38.7
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-1",
+          "probability": 7.4
+        },
+        {
+          "score": "4-1",
+          "probability": 6.5
+        },
+        {
+          "score": "2-1",
+          "probability": 6.4
         }
       ]
     }

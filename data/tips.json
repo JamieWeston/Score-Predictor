@@ -1,11 +1,5 @@
 [
   {
-    "match": "Fulham FC vs Nottingham Forest FC",
-    "date": "2025-12-22",
-    "tip": "No Clear Favorite",
-    "confidence": "46.8%"
-  },
-  {
     "match": "Manchester United FC vs Newcastle United FC",
     "date": "2025-12-26",
     "tip": "No Clear Favorite",
@@ -14,8 +8,8 @@
   {
     "match": "Nottingham Forest FC vs Manchester City FC",
     "date": "2025-12-27",
-    "tip": "No Clear Favorite",
-    "confidence": "49.0%"
+    "tip": "Away Win",
+    "confidence": "55.4%"
   },
   {
     "match": "Arsenal FC vs Brighton & Hove Albion FC",
@@ -58,5 +52,11 @@
     "date": "2025-12-28",
     "tip": "No Clear Favorite",
     "confidence": "47.2%"
+  },
+  {
+    "match": "Crystal Palace FC vs Tottenham Hotspur FC",
+    "date": "2025-12-28",
+    "tip": "Home Win",
+    "confidence": "56.7%"
   }
 ]

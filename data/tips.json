@@ -1,47 +1,5 @@
 [
   {
-    "match": "Nottingham Forest FC vs Manchester City FC",
-    "date": "2025-12-27",
-    "tip": "Away Win",
-    "confidence": "55.4%"
-  },
-  {
-    "match": "Arsenal FC vs Brighton & Hove Albion FC",
-    "date": "2025-12-27",
-    "tip": "Home Win",
-    "confidence": "60.0%"
-  },
-  {
-    "match": "Brentford FC vs AFC Bournemouth",
-    "date": "2025-12-27",
-    "tip": "Home Win",
-    "confidence": "63.8%"
-  },
-  {
-    "match": "Burnley FC vs Everton FC",
-    "date": "2025-12-27",
-    "tip": "Away Win",
-    "confidence": "56.7%"
-  },
-  {
-    "match": "Liverpool FC vs Wolverhampton Wanderers FC",
-    "date": "2025-12-27",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
-    "match": "West Ham United FC vs Fulham FC",
-    "date": "2025-12-27",
-    "tip": "Away Win",
-    "confidence": "58.8%"
-  },
-  {
-    "match": "Chelsea FC vs Aston Villa FC",
-    "date": "2025-12-27",
-    "tip": "Away Win",
-    "confidence": "55.4%"
-  },
-  {
     "match": "Sunderland AFC vs Leeds United FC",
     "date": "2025-12-28",
     "tip": "No Clear Favorite",
@@ -57,6 +15,48 @@
     "match": "Burnley FC vs Newcastle United FC",
     "date": "2025-12-30",
     "tip": "No Clear Favorite",
-    "confidence": "53.1%"
+    "confidence": "47.2%"
+  },
+  {
+    "match": "Chelsea FC vs AFC Bournemouth",
+    "date": "2025-12-30",
+    "tip": "Home Win",
+    "confidence": "59.5%"
+  },
+  {
+    "match": "Nottingham Forest FC vs Everton FC",
+    "date": "2025-12-30",
+    "tip": "No Clear Favorite",
+    "confidence": "45.3%"
+  },
+  {
+    "match": "West Ham United FC vs Brighton & Hove Albion FC",
+    "date": "2025-12-30",
+    "tip": "Home Win",
+    "confidence": "56.7%"
+  },
+  {
+    "match": "Arsenal FC vs Aston Villa FC",
+    "date": "2025-12-30",
+    "tip": "No Clear Favorite",
+    "confidence": "44.0%"
+  },
+  {
+    "match": "Manchester United FC vs Wolverhampton Wanderers FC",
+    "date": "2025-12-30",
+    "tip": "Home Win",
+    "confidence": "70.0%"
+  },
+  {
+    "match": "Crystal Palace FC vs Fulham FC",
+    "date": "2026-01-01",
+    "tip": "No Clear Favorite",
+    "confidence": "45.0%"
+  },
+  {
+    "match": "Liverpool FC vs Leeds United FC",
+    "date": "2026-01-01",
+    "tip": "No Clear Favorite",
+    "confidence": "52.6%"
   }
 ]

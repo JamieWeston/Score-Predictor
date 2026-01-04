@@ -1,137 +1,5 @@
 [
   {
-    "match": "Aston Villa FC vs Nottingham Forest FC",
-    "date": "2026-01-03",
-    "predictions": {
-      "result": {
-        "home_win": 70.0,
-        "draw": 15,
-        "away_win": 15.0
-      },
-      "btts": {
-        "yes": 47.0,
-        "no": 53.0
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-0",
-          "probability": 9.6
-        },
-        {
-          "score": "3-0",
-          "probability": 9.2
-        },
-        {
-          "score": "2-1",
-          "probability": 8.5
-        }
-      ]
-    }
-  },
-  {
-    "match": "Brighton & Hove Albion FC vs Burnley FC",
-    "date": "2026-01-03",
-    "predictions": {
-      "result": {
-        "home_win": 60.7,
-        "draw": 15.0,
-        "away_win": 24.3
-      },
-      "btts": {
-        "yes": 30.6,
-        "no": 69.4
-      },
-      "over_under_2_5": {
-        "over": 81.7,
-        "under": 18.3
-      },
-      "top_scorelines": [
-        {
-          "score": "1-1",
-          "probability": 12.6
-        },
-        {
-          "score": "0-1",
-          "probability": 12.3
-        },
-        {
-          "score": "1-2",
-          "probability": 9.0
-        }
-      ]
-    }
-  },
-  {
-    "match": "Wolverhampton Wanderers FC vs West Ham United FC",
-    "date": "2026-01-03",
-    "predictions": {
-      "result": {
-        "home_win": 51.0,
-        "draw": 15.0,
-        "away_win": 34.0
-      },
-      "btts": {
-        "yes": 25,
-        "no": 75
-      },
-      "over_under_2_5": {
-        "over": 61.0,
-        "under": 39.0
-      },
-      "top_scorelines": [
-        {
-          "score": "0-0",
-          "probability": 16.1
-        },
-        {
-          "score": "1-0",
-          "probability": 14.8
-        },
-        {
-          "score": "0-1",
-          "probability": 14.6
-        }
-      ]
-    }
-  },
-  {
-    "match": "AFC Bournemouth vs Arsenal FC",
-    "date": "2026-01-03",
-    "predictions": {
-      "result": {
-        "home_win": 28.3,
-        "draw": 15.0,
-        "away_win": 56.7
-      },
-      "btts": {
-        "yes": 66.5,
-        "no": 33.5
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-1",
-          "probability": 6.4
-        },
-        {
-          "score": "3-2",
-          "probability": 5.8
-        },
-        {
-          "score": "4-1",
-          "probability": 5.6
-        }
-      ]
-    }
-  },
-  {
     "match": "Leeds United FC vs Manchester United FC",
     "date": "2026-01-04",
     "predictions": {
@@ -325,6 +193,138 @@
         {
           "score": "4-2",
           "probability": 4.5
+        }
+      ]
+    }
+  },
+  {
+    "match": "West Ham United FC vs Nottingham Forest FC",
+    "date": "2026-01-06",
+    "predictions": {
+      "result": {
+        "home_win": 42.5,
+        "draw": 15.0,
+        "away_win": 42.5
+      },
+      "btts": {
+        "yes": 25,
+        "no": 75
+      },
+      "over_under_2_5": {
+        "over": 66.1,
+        "under": 33.9
+      },
+      "top_scorelines": [
+        {
+          "score": "1-0",
+          "probability": 15.8
+        },
+        {
+          "score": "0-0",
+          "probability": 13.8
+        },
+        {
+          "score": "1-1",
+          "probability": 13.2
+        }
+      ]
+    }
+  },
+  {
+    "match": "AFC Bournemouth vs Tottenham Hotspur FC",
+    "date": "2026-01-07",
+    "predictions": {
+      "result": {
+        "home_win": 35.4,
+        "draw": 15,
+        "away_win": 49.6
+      },
+      "btts": {
+        "yes": 50.9,
+        "no": 49.1
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-0",
+          "probability": 12.2
+        },
+        {
+          "score": "4-0",
+          "probability": 10.7
+        },
+        {
+          "score": "2-0",
+          "probability": 10.4
+        }
+      ]
+    }
+  },
+  {
+    "match": "Crystal Palace FC vs Aston Villa FC",
+    "date": "2026-01-07",
+    "predictions": {
+      "result": {
+        "home_win": 28.3,
+        "draw": 15.0,
+        "away_win": 56.7
+      },
+      "btts": {
+        "yes": 40.3,
+        "no": 59.7
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "probability": 9.9
+        },
+        {
+          "score": "0-2",
+          "probability": 9.6
+        },
+        {
+          "score": "1-1",
+          "probability": 9.0
+        }
+      ]
+    }
+  },
+  {
+    "match": "Brentford FC vs Sunderland AFC",
+    "date": "2026-01-07",
+    "predictions": {
+      "result": {
+        "home_win": 53.1,
+        "draw": 15.0,
+        "away_win": 31.9
+      },
+      "btts": {
+        "yes": 52.8,
+        "no": 47.2
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-0",
+          "probability": 8.2
+        },
+        {
+          "score": "3-1",
+          "probability": 8.2
+        },
+        {
+          "score": "2-0",
+          "probability": 7.6
         }
       ]
     }

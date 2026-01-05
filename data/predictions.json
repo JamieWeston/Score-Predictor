@@ -1,203 +1,5 @@
 [
   {
-    "match": "Leeds United FC vs Manchester United FC",
-    "date": "2026-01-04",
-    "predictions": {
-      "result": {
-        "home_win": 45.0,
-        "draw": 15.0,
-        "away_win": 40.0
-      },
-      "btts": {
-        "yes": 76.1,
-        "no": 23.9
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-3",
-          "probability": 5.4
-        },
-        {
-          "score": "2-4",
-          "probability": 4.8
-        },
-        {
-          "score": "3-3",
-          "probability": 4.7
-        }
-      ]
-    }
-  },
-  {
-    "match": "Everton FC vs Brentford FC",
-    "date": "2026-01-04",
-    "predictions": {
-      "result": {
-        "home_win": 45.0,
-        "draw": 15.0,
-        "away_win": 40.0
-      },
-      "btts": {
-        "yes": 63.7,
-        "no": 36.3
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-2",
-          "probability": 6.3
-        },
-        {
-          "score": "2-3",
-          "probability": 5.9
-        },
-        {
-          "score": "1-2",
-          "probability": 5.5
-        }
-      ]
-    }
-  },
-  {
-    "match": "Fulham FC vs Liverpool FC",
-    "date": "2026-01-04",
-    "predictions": {
-      "result": {
-        "home_win": 44.3,
-        "draw": 15.0,
-        "away_win": 40.7
-      },
-      "btts": {
-        "yes": 84.0,
-        "no": 16.0
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-3",
-          "probability": 4.8
-        },
-        {
-          "score": "2-3",
-          "probability": 4.5
-        },
-        {
-          "score": "3-4",
-          "probability": 4.2
-        }
-      ]
-    }
-  },
-  {
-    "match": "Newcastle United FC vs Crystal Palace FC",
-    "date": "2026-01-04",
-    "predictions": {
-      "result": {
-        "home_win": 58.8,
-        "draw": 15,
-        "away_win": 26.2
-      },
-      "btts": {
-        "yes": 36.8,
-        "no": 63.2
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "1-1",
-          "probability": 11.3
-        },
-        {
-          "score": "2-1",
-          "probability": 9.1
-        },
-        {
-          "score": "1-0",
-          "probability": 8.5
-        }
-      ]
-    }
-  },
-  {
-    "match": "Tottenham Hotspur FC vs Sunderland AFC",
-    "date": "2026-01-04",
-    "predictions": {
-      "result": {
-        "home_win": 51.0,
-        "draw": 15.0,
-        "away_win": 34.0
-      },
-      "btts": {
-        "yes": 35.5,
-        "no": 64.5
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "1-0",
-          "probability": 10.8
-        },
-        {
-          "score": "1-1",
-          "probability": 10.8
-        },
-        {
-          "score": "2-0",
-          "probability": 9.9
-        }
-      ]
-    }
-  },
-  {
-    "match": "Manchester City FC vs Chelsea FC",
-    "date": "2026-01-04",
-    "predictions": {
-      "result": {
-        "home_win": 60.7,
-        "draw": 15.0,
-        "away_win": 24.3
-      },
-      "btts": {
-        "yes": 78.8,
-        "no": 21.2
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-2",
-          "probability": 5.1
-        },
-        {
-          "score": "3-3",
-          "probability": 4.8
-        },
-        {
-          "score": "4-2",
-          "probability": 4.5
-        }
-      ]
-    }
-  },
-  {
     "match": "West Ham United FC vs Nottingham Forest FC",
     "date": "2026-01-06",
     "predictions": {
@@ -235,13 +37,13 @@
     "date": "2026-01-07",
     "predictions": {
       "result": {
-        "home_win": 35.4,
-        "draw": 15,
-        "away_win": 49.6
+        "home_win": 42.5,
+        "draw": 15.0,
+        "away_win": 42.5
       },
       "btts": {
-        "yes": 50.9,
-        "no": 49.1
+        "yes": 49.1,
+        "no": 50.9
       },
       "over_under_2_5": {
         "over": 85,
@@ -250,15 +52,15 @@
       "top_scorelines": [
         {
           "score": "3-0",
-          "probability": 12.2
+          "probability": 14.1
         },
         {
           "score": "4-0",
-          "probability": 10.7
+          "probability": 12.3
         },
         {
           "score": "2-0",
-          "probability": 10.4
+          "probability": 12.0
         }
       ]
     }
@@ -268,13 +70,13 @@
     "date": "2026-01-07",
     "predictions": {
       "result": {
-        "home_win": 28.3,
-        "draw": 15.0,
-        "away_win": 56.7
+        "home_win": 20,
+        "draw": 15,
+        "away_win": 65
       },
       "btts": {
-        "yes": 40.3,
-        "no": 59.7
+        "yes": 31.9,
+        "no": 68.1
       },
       "over_under_2_5": {
         "over": 85,
@@ -282,16 +84,16 @@
       },
       "top_scorelines": [
         {
-          "score": "1-2",
-          "probability": 9.9
+          "score": "0-1",
+          "probability": 15.5
         },
         {
           "score": "0-2",
-          "probability": 9.6
+          "probability": 15.5
         },
         {
-          "score": "1-1",
-          "probability": 9.0
+          "score": "0-3",
+          "probability": 10.4
         }
       ]
     }
@@ -301,13 +103,13 @@
     "date": "2026-01-07",
     "predictions": {
       "result": {
-        "home_win": 53.1,
+        "home_win": 55.2,
         "draw": 15.0,
-        "away_win": 31.9
+        "away_win": 29.7
       },
       "btts": {
-        "yes": 52.8,
-        "no": 47.2
+        "yes": 58.8,
+        "no": 41.2
       },
       "over_under_2_5": {
         "over": 85,
@@ -315,16 +117,214 @@
       },
       "top_scorelines": [
         {
-          "score": "3-0",
-          "probability": 8.2
+          "score": "3-1",
+          "probability": 7.8
         },
+        {
+          "score": "4-1",
+          "probability": 6.8
+        },
+        {
+          "score": "2-1",
+          "probability": 6.7
+        }
+      ]
+    }
+  },
+  {
+    "match": "Everton FC vs Wolverhampton Wanderers FC",
+    "date": "2026-01-07",
+    "predictions": {
+      "result": {
+        "home_win": 51.0,
+        "draw": 15.0,
+        "away_win": 34.0
+      },
+      "btts": {
+        "yes": 37.9,
+        "no": 62.1
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "probability": 10.9
+        },
+        {
+          "score": "1-2",
+          "probability": 9.3
+        },
+        {
+          "score": "0-1",
+          "probability": 8.3
+        }
+      ]
+    }
+  },
+  {
+    "match": "Fulham FC vs Chelsea FC",
+    "date": "2026-01-07",
+    "predictions": {
+      "result": {
+        "home_win": 58.2,
+        "draw": 15,
+        "away_win": 26.8
+      },
+      "btts": {
+        "yes": 72.9,
+        "no": 27.1
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-3",
+          "probability": 5.6
+        },
+        {
+          "score": "2-2",
+          "probability": 5.2
+        },
+        {
+          "score": "3-3",
+          "probability": 4.9
+        }
+      ]
+    }
+  },
+  {
+    "match": "Manchester City FC vs Brighton & Hove Albion FC",
+    "date": "2026-01-07",
+    "predictions": {
+      "result": {
+        "home_win": 61.4,
+        "draw": 15.0,
+        "away_win": 23.6
+      },
+      "btts": {
+        "yes": 68.1,
+        "no": 31.9
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
         {
           "score": "3-1",
-          "probability": 8.2
+          "probability": 5.9
         },
         {
-          "score": "2-0",
-          "probability": 7.6
+          "score": "3-2",
+          "probability": 5.9
+        },
+        {
+          "score": "2-1",
+          "probability": 5.1
+        }
+      ]
+    }
+  },
+  {
+    "match": "Burnley FC vs Manchester United FC",
+    "date": "2026-01-07",
+    "predictions": {
+      "result": {
+        "home_win": 34.0,
+        "draw": 15.0,
+        "away_win": 51.0
+      },
+      "btts": {
+        "yes": 36.6,
+        "no": 63.4
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "probability": 10.9
+        },
+        {
+          "score": "1-2",
+          "probability": 9.7
+        },
+        {
+          "score": "0-1",
+          "probability": 9.5
+        }
+      ]
+    }
+  },
+  {
+    "match": "Newcastle United FC vs Leeds United FC",
+    "date": "2026-01-07",
+    "predictions": {
+      "result": {
+        "home_win": 47.8,
+        "draw": 15.0,
+        "away_win": 37.2
+      },
+      "btts": {
+        "yes": 75.2,
+        "no": 24.8
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-2",
+          "probability": 5.3
+        },
+        {
+          "score": "3-3",
+          "probability": 4.9
+        },
+        {
+          "score": "2-2",
+          "probability": 4.9
+        }
+      ]
+    }
+  },
+  {
+    "match": "Arsenal FC vs Liverpool FC",
+    "date": "2026-01-08",
+    "predictions": {
+      "result": {
+        "home_win": 51.6,
+        "draw": 15.0,
+        "away_win": 33.4
+      },
+      "btts": {
+        "yes": 83.8,
+        "no": 16.2
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-3",
+          "probability": 4.8
+        },
+        {
+          "score": "3-2",
+          "probability": 4.5
+        },
+        {
+          "score": "4-3",
+          "probability": 4.2
         }
       ]
     }

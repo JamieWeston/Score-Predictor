@@ -1,11 +1,5 @@
 [
   {
-    "match": "West Ham United FC vs Nottingham Forest FC",
-    "date": "2026-01-06",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
     "match": "AFC Bournemouth vs Tottenham Hotspur FC",
     "date": "2026-01-07",
     "tip": "No Clear Favorite",
@@ -58,5 +52,11 @@
     "date": "2026-01-08",
     "tip": "No Clear Favorite",
     "confidence": "51.6%"
+  },
+  {
+    "match": "Manchester United FC vs Manchester City FC",
+    "date": "2026-01-17",
+    "tip": "No Clear Favorite",
+    "confidence": "49.2%"
   }
 ]

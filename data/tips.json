@@ -1,11 +1,5 @@
 [
   {
-    "match": "Arsenal FC vs Liverpool FC",
-    "date": "2026-01-08",
-    "tip": "No Clear Favorite",
-    "confidence": "51.6%"
-  },
-  {
     "match": "Manchester United FC vs Manchester City FC",
     "date": "2026-01-17",
     "tip": "No Clear Favorite",
@@ -27,7 +21,7 @@
     "match": "Liverpool FC vs Burnley FC",
     "date": "2026-01-17",
     "tip": "Home Win",
-    "confidence": "69.1%"
+    "confidence": "66.8%"
   },
   {
     "match": "Leeds United FC vs Fulham FC",
@@ -45,7 +39,7 @@
     "match": "Nottingham Forest FC vs Arsenal FC",
     "date": "2026-01-17",
     "tip": "Away Win",
-    "confidence": "63.8%"
+    "confidence": "61.4%"
   },
   {
     "match": "Wolverhampton Wanderers FC vs Newcastle United FC",
@@ -58,5 +52,11 @@
     "date": "2026-01-18",
     "tip": "Home Win",
     "confidence": "60.0%"
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs AFC Bournemouth",
+    "date": "2026-01-19",
+    "tip": "No Clear Favorite",
+    "confidence": "52.3%"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "match": "Wolverhampton Wanderers FC vs Newcastle United FC",
-    "date": "2026-01-18",
-    "tip": "No Clear Favorite",
-    "confidence": "50.0%"
-  },
-  {
-    "match": "Aston Villa FC vs Everton FC",
-    "date": "2026-01-18",
-    "tip": "Home Win",
-    "confidence": "60.0%"
-  },
-  {
     "match": "Brighton & Hove Albion FC vs AFC Bournemouth",
     "date": "2026-01-19",
     "tip": "No Clear Favorite",
@@ -39,7 +27,7 @@
     "match": "Manchester City FC vs Wolverhampton Wanderers FC",
     "date": "2026-01-24",
     "tip": "No Clear Favorite",
-    "confidence": "52.3%"
+    "confidence": "48.6%"
   },
   {
     "match": "AFC Bournemouth vs Liverpool FC",
@@ -58,5 +46,17 @@
     "date": "2026-01-25",
     "tip": "Home Win",
     "confidence": "63.8%"
+  },
+  {
+    "match": "Newcastle United FC vs Aston Villa FC",
+    "date": "2026-01-25",
+    "tip": "No Clear Favorite",
+    "confidence": "53.7%"
+  },
+  {
+    "match": "Arsenal FC vs Manchester United FC",
+    "date": "2026-01-25",
+    "tip": "No Clear Favorite",
+    "confidence": "50.2%"
   }
 ]

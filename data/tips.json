@@ -1,11 +1,5 @@
 [
   {
-    "match": "Brighton & Hove Albion FC vs AFC Bournemouth",
-    "date": "2026-01-19",
-    "tip": "No Clear Favorite",
-    "confidence": "52.3%"
-  },
-  {
     "match": "West Ham United FC vs Sunderland AFC",
     "date": "2026-01-24",
     "tip": "No Clear Favorite",
@@ -58,5 +52,11 @@
     "date": "2026-01-25",
     "tip": "No Clear Favorite",
     "confidence": "50.2%"
+  },
+  {
+    "match": "Everton FC vs Leeds United FC",
+    "date": "2026-01-26",
+    "tip": "No Clear Favorite",
+    "confidence": "53.1%"
   }
 ]

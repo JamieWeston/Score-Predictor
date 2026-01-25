@@ -1,35 +1,5 @@
 [
   {
-    "match": "West Ham United FC vs Sunderland AFC",
-    "date": "2026-01-24",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
-    "match": "Burnley FC vs Tottenham Hotspur FC",
-    "date": "2026-01-24",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
-    "match": "Fulham FC vs Brighton & Hove Albion FC",
-    "date": "2026-01-24",
-    "tip": "No Clear Favorite",
-    "confidence": "53.1%"
-  },
-  {
-    "match": "Manchester City FC vs Wolverhampton Wanderers FC",
-    "date": "2026-01-24",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
-    "match": "AFC Bournemouth vs Liverpool FC",
-    "date": "2026-01-24",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
     "match": "Crystal Palace FC vs Chelsea FC",
     "date": "2026-01-25",
     "tip": "No Clear Favorite",
@@ -56,6 +26,36 @@
   {
     "match": "Everton FC vs Leeds United FC",
     "date": "2026-01-26",
+    "tip": "No Clear Favorite",
+    "confidence": "53.1%"
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs Everton FC",
+    "date": "2026-01-31",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Leeds United FC vs Arsenal FC",
+    "date": "2026-01-31",
+    "tip": "No Clear Favorite",
+    "confidence": "49.2%"
+  },
+  {
+    "match": "Wolverhampton Wanderers FC vs AFC Bournemouth",
+    "date": "2026-01-31",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Chelsea FC vs West Ham United FC",
+    "date": "2026-01-31",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Liverpool FC vs Newcastle United FC",
+    "date": "2026-01-31",
     "tip": "No Clear Favorite",
     "confidence": "53.1%"
   }

@@ -1,35 +1,5 @@
 [
   {
-    "match": "Brighton & Hove Albion FC vs Everton FC",
-    "date": "2026-01-31",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
-    "match": "Leeds United FC vs Arsenal FC",
-    "date": "2026-01-31",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
-    "match": "Wolverhampton Wanderers FC vs AFC Bournemouth",
-    "date": "2026-01-31",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
-    "match": "Chelsea FC vs West Ham United FC",
-    "date": "2026-01-31",
-    "tip": "No Clear Favorite",
-    "confidence": "50.0%"
-  },
-  {
-    "match": "Liverpool FC vs Newcastle United FC",
-    "date": "2026-01-31",
-    "tip": "No Clear Favorite",
-    "confidence": "53.1%"
-  },
-  {
     "match": "Aston Villa FC vs Brentford FC",
     "date": "2026-02-01",
     "tip": "No Clear Favorite",
@@ -58,5 +28,35 @@
     "date": "2026-02-02",
     "tip": "Home Win",
     "confidence": "59.5%"
+  },
+  {
+    "match": "Leeds United FC vs Nottingham Forest FC",
+    "date": "2026-02-06",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Manchester United FC vs Tottenham Hotspur FC",
+    "date": "2026-02-07",
+    "tip": "Home Win",
+    "confidence": "66.8%"
+  },
+  {
+    "match": "AFC Bournemouth vs Aston Villa FC",
+    "date": "2026-02-07",
+    "tip": "No Clear Favorite",
+    "confidence": "53.7%"
+  },
+  {
+    "match": "Arsenal FC vs Sunderland AFC",
+    "date": "2026-02-07",
+    "tip": "Home Win",
+    "confidence": "56.7%"
+  },
+  {
+    "match": "Burnley FC vs West Ham United FC",
+    "date": "2026-02-07",
+    "tip": "No Clear Favorite",
+    "confidence": "46.4%"
   }
 ]

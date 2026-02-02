@@ -1,29 +1,5 @@
 [
   {
-    "match": "Aston Villa FC vs Brentford FC",
-    "date": "2026-02-01",
-    "tip": "No Clear Favorite",
-    "confidence": "47.8%"
-  },
-  {
-    "match": "Manchester United FC vs Fulham FC",
-    "date": "2026-02-01",
-    "tip": "No Clear Favorite",
-    "confidence": "49.2%"
-  },
-  {
-    "match": "Nottingham Forest FC vs Crystal Palace FC",
-    "date": "2026-02-01",
-    "tip": "Home Win",
-    "confidence": "69.5%"
-  },
-  {
-    "match": "Tottenham Hotspur FC vs Manchester City FC",
-    "date": "2026-02-01",
-    "tip": "No Clear Favorite",
-    "confidence": "46.4%"
-  },
-  {
     "match": "Sunderland AFC vs Burnley FC",
     "date": "2026-02-02",
     "tip": "Home Win",
@@ -33,13 +9,13 @@
     "match": "Leeds United FC vs Nottingham Forest FC",
     "date": "2026-02-06",
     "tip": "No Clear Favorite",
-    "confidence": "42.5%"
+    "confidence": "45.3%"
   },
   {
     "match": "Manchester United FC vs Tottenham Hotspur FC",
     "date": "2026-02-07",
     "tip": "Home Win",
-    "confidence": "66.8%"
+    "confidence": "69.1%"
   },
   {
     "match": "AFC Bournemouth vs Aston Villa FC",
@@ -58,5 +34,29 @@
     "date": "2026-02-07",
     "tip": "No Clear Favorite",
     "confidence": "46.4%"
+  },
+  {
+    "match": "Fulham FC vs Everton FC",
+    "date": "2026-02-07",
+    "tip": "No Clear Favorite",
+    "confidence": "51.0%"
+  },
+  {
+    "match": "Wolverhampton Wanderers FC vs Chelsea FC",
+    "date": "2026-02-07",
+    "tip": "No Clear Favorite",
+    "confidence": "50.0%"
+  },
+  {
+    "match": "Newcastle United FC vs Brentford FC",
+    "date": "2026-02-07",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs Crystal Palace FC",
+    "date": "2026-02-08",
+    "tip": "Home Win",
+    "confidence": "68.0%"
   }
 ]

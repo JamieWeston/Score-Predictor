@@ -1,11 +1,5 @@
 [
   {
-    "match": "Leeds United FC vs Nottingham Forest FC",
-    "date": "2026-02-06",
-    "tip": "No Clear Favorite",
-    "confidence": "45.3%"
-  },
-  {
     "match": "Manchester United FC vs Tottenham Hotspur FC",
     "date": "2026-02-07",
     "tip": "Home Win",
@@ -58,5 +52,11 @@
     "date": "2026-02-08",
     "tip": "No Clear Favorite",
     "confidence": "48.6%"
+  },
+  {
+    "match": "Chelsea FC vs Leeds United FC",
+    "date": "2026-02-10",
+    "tip": "No Clear Favorite",
+    "confidence": "53.7%"
   }
 ]

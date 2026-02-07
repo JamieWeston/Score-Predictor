@@ -1,38 +1,5 @@
 [
   {
-    "match": "Leeds United FC vs Nottingham Forest FC",
-    "date": "2026-02-06",
-    "predictions": {
-      "result": {
-        "home_win": 39.7,
-        "draw": 15.0,
-        "away_win": 45.3
-      },
-      "btts": {
-        "yes": 49.5,
-        "no": 50.5
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-1",
-          "probability": 8.7
-        },
-        {
-          "score": "3-1",
-          "probability": 8.0
-        },
-        {
-          "score": "2-0",
-          "probability": 7.3
-        }
-      ]
-    }
-  },
-  {
     "match": "Manchester United FC vs Tottenham Hotspur FC",
     "date": "2026-02-07",
     "predictions": {
@@ -325,6 +292,39 @@
         {
           "score": "4-1",
           "probability": 5.8
+        }
+      ]
+    }
+  },
+  {
+    "match": "Chelsea FC vs Leeds United FC",
+    "date": "2026-02-10",
+    "predictions": {
+      "result": {
+        "home_win": 53.7,
+        "draw": 15.0,
+        "away_win": 31.3
+      },
+      "btts": {
+        "yes": 62.1,
+        "no": 37.9
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-2",
+          "probability": 6.6
+        },
+        {
+          "score": "2-3",
+          "probability": 5.8
+        },
+        {
+          "score": "1-2",
+          "probability": 5.7
         }
       ]
     }

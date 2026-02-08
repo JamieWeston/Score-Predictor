@@ -1,47 +1,5 @@
 [
   {
-    "match": "Manchester United FC vs Tottenham Hotspur FC",
-    "date": "2026-02-07",
-    "tip": "Home Win",
-    "confidence": "69.1%"
-  },
-  {
-    "match": "AFC Bournemouth vs Aston Villa FC",
-    "date": "2026-02-07",
-    "tip": "No Clear Favorite",
-    "confidence": "53.7%"
-  },
-  {
-    "match": "Arsenal FC vs Sunderland AFC",
-    "date": "2026-02-07",
-    "tip": "No Clear Favorite",
-    "confidence": "50.0%"
-  },
-  {
-    "match": "Burnley FC vs West Ham United FC",
-    "date": "2026-02-07",
-    "tip": "No Clear Favorite",
-    "confidence": "46.4%"
-  },
-  {
-    "match": "Fulham FC vs Everton FC",
-    "date": "2026-02-07",
-    "tip": "No Clear Favorite",
-    "confidence": "51.0%"
-  },
-  {
-    "match": "Wolverhampton Wanderers FC vs Chelsea FC",
-    "date": "2026-02-07",
-    "tip": "No Clear Favorite",
-    "confidence": "50.0%"
-  },
-  {
-    "match": "Newcastle United FC vs Brentford FC",
-    "date": "2026-02-07",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
     "match": "Brighton & Hove Albion FC vs Crystal Palace FC",
     "date": "2026-02-08",
     "tip": "Home Win",
@@ -56,7 +14,49 @@
   {
     "match": "Chelsea FC vs Leeds United FC",
     "date": "2026-02-10",
+    "tip": "Home Win",
+    "confidence": "56.7%"
+  },
+  {
+    "match": "Everton FC vs AFC Bournemouth",
+    "date": "2026-02-10",
     "tip": "No Clear Favorite",
-    "confidence": "53.7%"
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Newcastle United FC",
+    "date": "2026-02-10",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "West Ham United FC vs Manchester United FC",
+    "date": "2026-02-10",
+    "tip": "No Clear Favorite",
+    "confidence": "46.0%"
+  },
+  {
+    "match": "Aston Villa FC vs Brighton & Hove Albion FC",
+    "date": "2026-02-11",
+    "tip": "No Clear Favorite",
+    "confidence": "45.8%"
+  },
+  {
+    "match": "Crystal Palace FC vs Burnley FC",
+    "date": "2026-02-11",
+    "tip": "No Clear Favorite",
+    "confidence": "48.6%"
+  },
+  {
+    "match": "Manchester City FC vs Fulham FC",
+    "date": "2026-02-11",
+    "tip": "No Clear Favorite",
+    "confidence": "48.6%"
+  },
+  {
+    "match": "Nottingham Forest FC vs Wolverhampton Wanderers FC",
+    "date": "2026-02-11",
+    "tip": "Home Win",
+    "confidence": "70.0%"
   }
 ]

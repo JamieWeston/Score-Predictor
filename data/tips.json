@@ -1,35 +1,5 @@
 [
   {
-    "match": "Aston Villa FC vs Brighton & Hove Albion FC",
-    "date": "2026-02-11",
-    "tip": "Home Win",
-    "confidence": "59.5%"
-  },
-  {
-    "match": "Crystal Palace FC vs Burnley FC",
-    "date": "2026-02-11",
-    "tip": "Home Win",
-    "confidence": "59.5%"
-  },
-  {
-    "match": "Manchester City FC vs Fulham FC",
-    "date": "2026-02-11",
-    "tip": "No Clear Favorite",
-    "confidence": "53.1%"
-  },
-  {
-    "match": "Nottingham Forest FC vs Wolverhampton Wanderers FC",
-    "date": "2026-02-11",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
-    "match": "Sunderland AFC vs Liverpool FC",
-    "date": "2026-02-11",
-    "tip": "No Clear Favorite",
-    "confidence": "52.3%"
-  },
-  {
     "match": "Brentford FC vs Arsenal FC",
     "date": "2026-02-12",
     "tip": "No Clear Favorite",
@@ -45,18 +15,48 @@
     "match": "Aston Villa FC vs Leeds United FC",
     "date": "2026-02-21",
     "tip": "No Clear Favorite",
-    "confidence": "45.3%"
+    "confidence": "45.0%"
   },
   {
     "match": "Brentford FC vs Brighton & Hove Albion FC",
     "date": "2026-02-21",
     "tip": "Home Win",
-    "confidence": "66.8%"
+    "confidence": "70.0%"
   },
   {
     "match": "Chelsea FC vs Burnley FC",
     "date": "2026-02-21",
     "tip": "Home Win",
-    "confidence": "70.0%"
+    "confidence": "63.8%"
+  },
+  {
+    "match": "West Ham United FC vs AFC Bournemouth",
+    "date": "2026-02-21",
+    "tip": "No Clear Favorite",
+    "confidence": "44.3%"
+  },
+  {
+    "match": "Manchester City FC vs Newcastle United FC",
+    "date": "2026-02-21",
+    "tip": "Home Win",
+    "confidence": "63.8%"
+  },
+  {
+    "match": "Sunderland AFC vs Fulham FC",
+    "date": "2026-02-22",
+    "tip": "Home Win",
+    "confidence": "61.8%"
+  },
+  {
+    "match": "Crystal Palace FC vs Wolverhampton Wanderers FC",
+    "date": "2026-02-22",
+    "tip": "Home Win",
+    "confidence": "63.8%"
+  },
+  {
+    "match": "Nottingham Forest FC vs Liverpool FC",
+    "date": "2026-02-22",
+    "tip": "No Clear Favorite",
+    "confidence": "45.3%"
   }
 ]

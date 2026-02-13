@@ -1,11 +1,5 @@
 [
   {
-    "match": "Brentford FC vs Arsenal FC",
-    "date": "2026-02-12",
-    "tip": "No Clear Favorite",
-    "confidence": "49.2%"
-  },
-  {
     "match": "Wolverhampton Wanderers FC vs Arsenal FC",
     "date": "2026-02-18",
     "tip": "Away Win",
@@ -21,7 +15,7 @@
     "match": "Brentford FC vs Brighton & Hove Albion FC",
     "date": "2026-02-21",
     "tip": "Home Win",
-    "confidence": "70.0%"
+    "confidence": "69.5%"
   },
   {
     "match": "Chelsea FC vs Burnley FC",
@@ -58,5 +52,11 @@
     "date": "2026-02-22",
     "tip": "No Clear Favorite",
     "confidence": "45.3%"
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Arsenal FC",
+    "date": "2026-02-22",
+    "tip": "Away Win",
+    "confidence": "56.7%"
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "match": "Everton FC vs Manchester United FC",
-    "date": "2026-02-23",
-    "predictions": {
-      "result": {
-        "home_win": 37.0,
-        "draw": 15.0,
-        "away_win": 48.0
-      },
-      "btts": {
-        "yes": 78.2,
-        "no": 21.8
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-3",
-          "probability": 5.2
-        },
-        {
-          "score": "3-3",
-          "probability": 4.8
-        },
-        {
-          "score": "2-4",
-          "probability": 4.6
-        }
-      ]
-    }
-  },
-  {
     "match": "Wolverhampton Wanderers FC vs Aston Villa FC",
     "date": "2026-02-27",
     "predictions": {
@@ -169,13 +136,13 @@
     "date": "2026-02-28",
     "predictions": {
       "result": {
-        "home_win": 32.7,
-        "draw": 15,
-        "away_win": 52.3
+        "home_win": 42.5,
+        "draw": 15.0,
+        "away_win": 42.5
       },
       "btts": {
-        "yes": 47.0,
-        "no": 53.0
+        "yes": 39.2,
+        "no": 60.8
       },
       "over_under_2_5": {
         "over": 85,
@@ -184,15 +151,15 @@
       "top_scorelines": [
         {
           "score": "2-0",
-          "probability": 8.9
+          "probability": 11.5
+        },
+        {
+          "score": "1-0",
+          "probability": 10.0
         },
         {
           "score": "2-1",
-          "probability": 8.9
-        },
-        {
-          "score": "3-0",
-          "probability": 8.2
+          "probability": 9.6
         }
       ]
     }
@@ -306,8 +273,8 @@
         "away_win": 27.0
       },
       "btts": {
-        "yes": 73.8,
-        "no": 26.2
+        "yes": 71.1,
+        "no": 28.9
       },
       "over_under_2_5": {
         "over": 85,
@@ -316,15 +283,48 @@
       "top_scorelines": [
         {
           "score": "3-2",
-          "probability": 5.6
-        },
-        {
-          "score": "4-2",
-          "probability": 4.9
+          "probability": 5.8
         },
         {
           "score": "2-2",
+          "probability": 5.3
+        },
+        {
+          "score": "3-1",
           "probability": 4.8
+        }
+      ]
+    }
+  },
+  {
+    "match": "Arsenal FC vs Chelsea FC",
+    "date": "2026-03-01",
+    "predictions": {
+      "result": {
+        "home_win": 46.0,
+        "draw": 15.0,
+        "away_win": 39.0
+      },
+      "btts": {
+        "yes": 85,
+        "no": 15
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-3",
+          "probability": 4.7
+        },
+        {
+          "score": "3-4",
+          "probability": 4.1
+        },
+        {
+          "score": "4-3",
+          "probability": 4.1
         }
       ]
     }

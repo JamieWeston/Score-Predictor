@@ -1,29 +1,5 @@
 [
   {
-    "match": "Brighton & Hove Albion FC vs Nottingham Forest FC",
-    "date": "2026-03-01",
-    "tip": "No Clear Favorite",
-    "confidence": "46.4%"
-  },
-  {
-    "match": "Fulham FC vs Tottenham Hotspur FC",
-    "date": "2026-03-01",
-    "tip": "Home Win",
-    "confidence": "68.0%"
-  },
-  {
-    "match": "Manchester United FC vs Crystal Palace FC",
-    "date": "2026-03-01",
-    "tip": "Home Win",
-    "confidence": "58.0%"
-  },
-  {
-    "match": "Arsenal FC vs Chelsea FC",
-    "date": "2026-03-01",
-    "tip": "No Clear Favorite",
-    "confidence": "46.0%"
-  },
-  {
     "match": "AFC Bournemouth vs Brentford FC",
     "date": "2026-03-03",
     "tip": "No Clear Favorite",
@@ -51,12 +27,36 @@
     "match": "Aston Villa FC vs Chelsea FC",
     "date": "2026-03-04",
     "tip": "No Clear Favorite",
-    "confidence": "51.9%"
+    "confidence": "45.3%"
   },
   {
     "match": "Brighton & Hove Albion FC vs Arsenal FC",
     "date": "2026-03-04",
     "tip": "No Clear Favorite",
-    "confidence": "55.0%"
+    "confidence": "46.8%"
+  },
+  {
+    "match": "Fulham FC vs West Ham United FC",
+    "date": "2026-03-04",
+    "tip": "No Clear Favorite",
+    "confidence": "52.3%"
+  },
+  {
+    "match": "Manchester City FC vs Nottingham Forest FC",
+    "date": "2026-03-04",
+    "tip": "Home Win",
+    "confidence": "70.0%"
+  },
+  {
+    "match": "Newcastle United FC vs Manchester United FC",
+    "date": "2026-03-04",
+    "tip": "Away Win",
+    "confidence": "61.4%"
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Crystal Palace FC",
+    "date": "2026-03-05",
+    "tip": "Away Win",
+    "confidence": "59.5%"
   }
 ]

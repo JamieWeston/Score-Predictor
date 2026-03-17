@@ -1,11 +1,5 @@
 [
   {
-    "match": "Brentford FC vs Wolverhampton Wanderers FC",
-    "date": "2026-03-16",
-    "tip": "No Clear Favorite",
-    "confidence": "47.2%"
-  },
-  {
     "match": "AFC Bournemouth vs Manchester United FC",
     "date": "2026-03-20",
     "tip": "No Clear Favorite",
@@ -39,7 +33,7 @@
     "match": "Leeds United FC vs Brentford FC",
     "date": "2026-03-21",
     "tip": "No Clear Favorite",
-    "confidence": "52.3%"
+    "confidence": "46.4%"
   },
   {
     "match": "Newcastle United FC vs Sunderland AFC",
@@ -56,6 +50,12 @@
   {
     "match": "Tottenham Hotspur FC vs Nottingham Forest FC",
     "date": "2026-03-22",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "West Ham United FC vs Wolverhampton Wanderers FC",
+    "date": "2026-04-10",
     "tip": "No Clear Favorite",
     "confidence": "42.5%"
   }

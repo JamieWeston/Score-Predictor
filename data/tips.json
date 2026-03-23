@@ -6,28 +6,10 @@
     "confidence": "55.2%"
   },
   {
-    "match": "Newcastle United FC vs Sunderland AFC",
-    "date": "2026-03-22",
-    "tip": "Home Win",
-    "confidence": "62.3%"
-  },
-  {
-    "match": "Aston Villa FC vs West Ham United FC",
-    "date": "2026-03-22",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
-    "match": "Tottenham Hotspur FC vs Nottingham Forest FC",
-    "date": "2026-03-22",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
     "match": "West Ham United FC vs Wolverhampton Wanderers FC",
     "date": "2026-04-10",
     "tip": "No Clear Favorite",
-    "confidence": "42.5%"
+    "confidence": "45.3%"
   },
   {
     "match": "Arsenal FC vs AFC Bournemouth",
@@ -58,5 +40,23 @@
     "date": "2026-04-12",
     "tip": "Home Win",
     "confidence": "70.0%"
+  },
+  {
+    "match": "Crystal Palace FC vs Newcastle United FC",
+    "date": "2026-04-12",
+    "tip": "No Clear Favorite",
+    "confidence": "51.0%"
+  },
+  {
+    "match": "Nottingham Forest FC vs Aston Villa FC",
+    "date": "2026-04-12",
+    "tip": "No Clear Favorite",
+    "confidence": "54.1%"
+  },
+  {
+    "match": "Chelsea FC vs Manchester City FC",
+    "date": "2026-04-12",
+    "tip": "No Clear Favorite",
+    "confidence": "55.0%"
   }
 ]

@@ -6,12 +6,6 @@
     "confidence": "55.2%"
   },
   {
-    "match": "West Ham United FC vs Wolverhampton Wanderers FC",
-    "date": "2026-04-10",
-    "tip": "No Clear Favorite",
-    "confidence": "45.3%"
-  },
-  {
     "match": "Arsenal FC vs AFC Bournemouth",
     "date": "2026-04-11",
     "tip": "Home Win",
@@ -58,5 +52,11 @@
     "date": "2026-04-12",
     "tip": "No Clear Favorite",
     "confidence": "55.0%"
+  },
+  {
+    "match": "Manchester United FC vs Leeds United FC",
+    "date": "2026-04-13",
+    "tip": "Home Win",
+    "confidence": "68.0%"
   }
 ]

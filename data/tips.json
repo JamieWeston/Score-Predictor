@@ -6,30 +6,6 @@
     "confidence": "55.2%"
   },
   {
-    "match": "Arsenal FC vs AFC Bournemouth",
-    "date": "2026-04-11",
-    "tip": "Home Win",
-    "confidence": "63.8%"
-  },
-  {
-    "match": "Brentford FC vs Everton FC",
-    "date": "2026-04-11",
-    "tip": "No Clear Favorite",
-    "confidence": "45.0%"
-  },
-  {
-    "match": "Burnley FC vs Brighton & Hove Albion FC",
-    "date": "2026-04-11",
-    "tip": "Away Win",
-    "confidence": "63.8%"
-  },
-  {
-    "match": "Liverpool FC vs Fulham FC",
-    "date": "2026-04-11",
-    "tip": "No Clear Favorite",
-    "confidence": "44.7%"
-  },
-  {
     "match": "Sunderland AFC vs Tottenham Hotspur FC",
     "date": "2026-04-12",
     "tip": "Home Win",
@@ -58,5 +34,29 @@
     "date": "2026-04-13",
     "tip": "Home Win",
     "confidence": "68.0%"
+  },
+  {
+    "match": "Brentford FC vs Fulham FC",
+    "date": "2026-04-18",
+    "tip": "No Clear Favorite",
+    "confidence": "47.8%"
+  },
+  {
+    "match": "Newcastle United FC vs AFC Bournemouth",
+    "date": "2026-04-18",
+    "tip": "No Clear Favorite",
+    "confidence": "45.3%"
+  },
+  {
+    "match": "Leeds United FC vs Wolverhampton Wanderers FC",
+    "date": "2026-04-18",
+    "tip": "No Clear Favorite",
+    "confidence": "49.6%"
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Brighton & Hove Albion FC",
+    "date": "2026-04-18",
+    "tip": "Away Win",
+    "confidence": "65.0%"
   }
 ]

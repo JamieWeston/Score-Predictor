@@ -1,170 +1,5 @@
 [
   {
-    "match": "Manchester City FC vs Crystal Palace FC",
-    "date": "2026-03-21",
-    "predictions": {
-      "result": {
-        "home_win": 55.2,
-        "draw": 15.0,
-        "away_win": 29.7
-      },
-      "btts": {
-        "yes": 78.1,
-        "no": 21.9
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-2",
-          "probability": 5.2
-        },
-        {
-          "score": "3-3",
-          "probability": 4.8
-        },
-        {
-          "score": "2-2",
-          "probability": 4.5
-        }
-      ]
-    }
-  },
-  {
-    "match": "Sunderland AFC vs Tottenham Hotspur FC",
-    "date": "2026-04-12",
-    "predictions": {
-      "result": {
-        "home_win": 70,
-        "draw": 15,
-        "away_win": 15
-      },
-      "btts": {
-        "yes": 27.7,
-        "no": 72.3
-      },
-      "over_under_2_5": {
-        "over": 73.9,
-        "under": 26.1
-      },
-      "top_scorelines": [
-        {
-          "score": "0-1",
-          "probability": 14.5
-        },
-        {
-          "score": "1-1",
-          "probability": 12.8
-        },
-        {
-          "score": "0-0",
-          "probability": 10.9
-        }
-      ]
-    }
-  },
-  {
-    "match": "Crystal Palace FC vs Newcastle United FC",
-    "date": "2026-04-12",
-    "predictions": {
-      "result": {
-        "home_win": 51.0,
-        "draw": 15.0,
-        "away_win": 34.0
-      },
-      "btts": {
-        "yes": 54.3,
-        "no": 45.7
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-2",
-          "probability": 7.1
-        },
-        {
-          "score": "1-2",
-          "probability": 7.1
-        },
-        {
-          "score": "2-1",
-          "probability": 6.1
-        }
-      ]
-    }
-  },
-  {
-    "match": "Nottingham Forest FC vs Aston Villa FC",
-    "date": "2026-04-12",
-    "predictions": {
-      "result": {
-        "home_win": 54.1,
-        "draw": 15,
-        "away_win": 30.9
-      },
-      "btts": {
-        "yes": 42.2,
-        "no": 57.8
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "1-1",
-          "probability": 9.4
-        },
-        {
-          "score": "1-2",
-          "probability": 9.4
-        },
-        {
-          "score": "0-1",
-          "probability": 6.8
-        }
-      ]
-    }
-  },
-  {
-    "match": "Chelsea FC vs Manchester City FC",
-    "date": "2026-04-12",
-    "predictions": {
-      "result": {
-        "home_win": 30.0,
-        "draw": 15.0,
-        "away_win": 55.0
-      },
-      "btts": {
-        "yes": 62.6,
-        "no": 37.4
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-2",
-          "probability": 6.4
-        },
-        {
-          "score": "3-2",
-          "probability": 5.9
-        },
-        {
-          "score": "2-1",
-          "probability": 5.7
-        }
-      ]
-    }
-  },
-  {
     "match": "Manchester United FC vs Leeds United FC",
     "date": "2026-04-13",
     "predictions": {
@@ -306,8 +141,8 @@
         "away_win": 65
       },
       "btts": {
-        "yes": 36.5,
-        "no": 63.5
+        "yes": 34.8,
+        "no": 65.2
       },
       "over_under_2_5": {
         "over": 85,
@@ -316,15 +151,180 @@
       "top_scorelines": [
         {
           "score": "1-1",
-          "probability": 10.7
+          "probability": 12.0
+        },
+        {
+          "score": "0-1",
+          "probability": 8.7
         },
         {
           "score": "1-0",
-          "probability": 10.0
+          "probability": 8.6
+        }
+      ]
+    }
+  },
+  {
+    "match": "Chelsea FC vs Manchester United FC",
+    "date": "2026-04-18",
+    "predictions": {
+      "result": {
+        "home_win": 28.3,
+        "draw": 15.0,
+        "away_win": 56.7
+      },
+      "btts": {
+        "yes": 46.5,
+        "no": 53.5
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "probability": 8.4
         },
         {
           "score": "2-1",
-          "probability": 9.9
+          "probability": 8.0
+        },
+        {
+          "score": "1-2",
+          "probability": 7.5
+        }
+      ]
+    }
+  },
+  {
+    "match": "Nottingham Forest FC vs Burnley FC",
+    "date": "2026-04-19",
+    "predictions": {
+      "result": {
+        "home_win": 70,
+        "draw": 15,
+        "away_win": 15
+      },
+      "btts": {
+        "yes": 38.3,
+        "no": 61.7
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "probability": 10.9
+        },
+        {
+          "score": "1-2",
+          "probability": 8.8
+        },
+        {
+          "score": "2-1",
+          "probability": 8.0
+        }
+      ]
+    }
+  },
+  {
+    "match": "Aston Villa FC vs Sunderland AFC",
+    "date": "2026-04-19",
+    "predictions": {
+      "result": {
+        "home_win": 31.9,
+        "draw": 15.0,
+        "away_win": 53.1
+      },
+      "btts": {
+        "yes": 41.2,
+        "no": 58.8
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-0",
+          "probability": 9.8
+        },
+        {
+          "score": "2-1",
+          "probability": 9.8
+        },
+        {
+          "score": "1-0",
+          "probability": 8.5
+        }
+      ]
+    }
+  },
+  {
+    "match": "Everton FC vs Liverpool FC",
+    "date": "2026-04-19",
+    "predictions": {
+      "result": {
+        "home_win": 53.7,
+        "draw": 15.0,
+        "away_win": 31.3
+      },
+      "btts": {
+        "yes": 82.7,
+        "no": 17.3
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-3",
+          "probability": 4.9
+        },
+        {
+          "score": "2-3",
+          "probability": 4.4
+        },
+        {
+          "score": "3-2",
+          "probability": 4.4
+        }
+      ]
+    }
+  },
+  {
+    "match": "Manchester City FC vs Arsenal FC",
+    "date": "2026-04-19",
+    "predictions": {
+      "result": {
+        "home_win": 44.2,
+        "draw": 15.0,
+        "away_win": 40.8
+      },
+      "btts": {
+        "yes": 85,
+        "no": 15
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "3-3",
+          "probability": 4.7
+        },
+        {
+          "score": "3-4",
+          "probability": 4.1
+        },
+        {
+          "score": "4-3",
+          "probability": 4.1
         }
       ]
     }

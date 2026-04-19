@@ -1,170 +1,5 @@
 [
   {
-    "match": "Brentford FC vs Fulham FC",
-    "date": "2026-04-18",
-    "predictions": {
-      "result": {
-        "home_win": 47.8,
-        "draw": 15.0,
-        "away_win": 37.2
-      },
-      "btts": {
-        "yes": 61.6,
-        "no": 38.4
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-1",
-          "probability": 7.4
-        },
-        {
-          "score": "4-1",
-          "probability": 6.5
-        },
-        {
-          "score": "2-1",
-          "probability": 6.3
-        }
-      ]
-    }
-  },
-  {
-    "match": "Newcastle United FC vs AFC Bournemouth",
-    "date": "2026-04-18",
-    "predictions": {
-      "result": {
-        "home_win": 45.3,
-        "draw": 15.0,
-        "away_win": 39.7
-      },
-      "btts": {
-        "yes": 55.9,
-        "no": 44.1
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-1",
-          "probability": 8.0
-        },
-        {
-          "score": "2-1",
-          "probability": 7.4
-        },
-        {
-          "score": "4-1",
-          "probability": 6.4
-        }
-      ]
-    }
-  },
-  {
-    "match": "Leeds United FC vs Wolverhampton Wanderers FC",
-    "date": "2026-04-18",
-    "predictions": {
-      "result": {
-        "home_win": 42.5,
-        "draw": 15.0,
-        "away_win": 42.5
-      },
-      "btts": {
-        "yes": 37.8,
-        "no": 62.2
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "0-2",
-          "probability": 14.0
-        },
-        {
-          "score": "0-1",
-          "probability": 11.7
-        },
-        {
-          "score": "0-3",
-          "probability": 11.2
-        }
-      ]
-    }
-  },
-  {
-    "match": "Tottenham Hotspur FC vs Brighton & Hove Albion FC",
-    "date": "2026-04-18",
-    "predictions": {
-      "result": {
-        "home_win": 20,
-        "draw": 15,
-        "away_win": 65
-      },
-      "btts": {
-        "yes": 34.8,
-        "no": 65.2
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "1-1",
-          "probability": 12.0
-        },
-        {
-          "score": "0-1",
-          "probability": 8.7
-        },
-        {
-          "score": "1-0",
-          "probability": 8.6
-        }
-      ]
-    }
-  },
-  {
-    "match": "Chelsea FC vs Manchester United FC",
-    "date": "2026-04-18",
-    "predictions": {
-      "result": {
-        "home_win": 35.4,
-        "draw": 15,
-        "away_win": 49.6
-      },
-      "btts": {
-        "yes": 40.5,
-        "no": 59.5
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "1-1",
-          "probability": 10.2
-        },
-        {
-          "score": "1-2",
-          "probability": 9.1
-        },
-        {
-          "score": "2-1",
-          "probability": 7.3
-        }
-      ]
-    }
-  },
-  {
     "match": "Nottingham Forest FC vs Burnley FC",
     "date": "2026-04-19",
     "predictions": {
@@ -325,6 +160,171 @@
         {
           "score": "2-2",
           "probability": 5.6
+        }
+      ]
+    }
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs Chelsea FC",
+    "date": "2026-04-21",
+    "predictions": {
+      "result": {
+        "home_win": 68.0,
+        "draw": 15.0,
+        "away_win": 17.0
+      },
+      "btts": {
+        "yes": 42.4,
+        "no": 57.6
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "probability": 9.7
+        },
+        {
+          "score": "2-1",
+          "probability": 8.6
+        },
+        {
+          "score": "1-2",
+          "probability": 7.7
+        }
+      ]
+    }
+  },
+  {
+    "match": "AFC Bournemouth vs Leeds United FC",
+    "date": "2026-04-22",
+    "predictions": {
+      "result": {
+        "home_win": 49.2,
+        "draw": 15.0,
+        "away_win": 35.8
+      },
+      "btts": {
+        "yes": 59.5,
+        "no": 40.5
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-1",
+          "probability": 6.5
+        },
+        {
+          "score": "2-2",
+          "probability": 6.5
+        },
+        {
+          "score": "3-1",
+          "probability": 6.0
+        }
+      ]
+    }
+  },
+  {
+    "match": "Burnley FC vs Manchester City FC",
+    "date": "2026-04-22",
+    "predictions": {
+      "result": {
+        "home_win": 20,
+        "draw": 15,
+        "away_win": 65
+      },
+      "btts": {
+        "yes": 43.5,
+        "no": 56.5
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "probability": 9.3
+        },
+        {
+          "score": "2-1",
+          "probability": 8.6
+        },
+        {
+          "score": "1-2",
+          "probability": 7.6
+        }
+      ]
+    }
+  },
+  {
+    "match": "Sunderland AFC vs Nottingham Forest FC",
+    "date": "2026-04-24",
+    "predictions": {
+      "result": {
+        "home_win": 56.7,
+        "draw": 15.0,
+        "away_win": 28.3
+      },
+      "btts": {
+        "yes": 63.7,
+        "no": 36.3
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-2",
+          "probability": 6.3
+        },
+        {
+          "score": "2-3",
+          "probability": 5.9
+        },
+        {
+          "score": "1-2",
+          "probability": 5.5
+        }
+      ]
+    }
+  },
+  {
+    "match": "Fulham FC vs Aston Villa FC",
+    "date": "2026-04-25",
+    "predictions": {
+      "result": {
+        "home_win": 54.1,
+        "draw": 15,
+        "away_win": 30.9
+      },
+      "btts": {
+        "yes": 33.6,
+        "no": 66.4
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "0-1",
+          "probability": 13.6
+        },
+        {
+          "score": "0-2",
+          "probability": 13.6
+        },
+        {
+          "score": "1-1",
+          "probability": 9.4
         }
       ]
     }

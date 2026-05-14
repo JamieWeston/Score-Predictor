@@ -1,11 +1,5 @@
 [
   {
-    "match": "Manchester City FC vs Crystal Palace FC",
-    "date": "2026-05-13",
-    "tip": "Home Win",
-    "confidence": "63.8%"
-  },
-  {
     "match": "Aston Villa FC vs Liverpool FC",
     "date": "2026-05-15",
     "tip": "No Clear Favorite",
@@ -20,8 +14,8 @@
   {
     "match": "Brentford FC vs Crystal Palace FC",
     "date": "2026-05-17",
-    "tip": "No Clear Favorite",
-    "confidence": "49.6%"
+    "tip": "Home Win",
+    "confidence": "66.1%"
   },
   {
     "match": "Everton FC vs Sunderland AFC",
@@ -58,5 +52,11 @@
     "date": "2026-05-19",
     "tip": "No Clear Favorite",
     "confidence": "45.5%"
+  },
+  {
+    "match": "Chelsea FC vs Tottenham Hotspur FC",
+    "date": "2026-05-19",
+    "tip": "Away Win",
+    "confidence": "61.8%"
   }
 ]

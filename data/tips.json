@@ -1,11 +1,5 @@
 [
   {
-    "match": "Aston Villa FC vs Liverpool FC",
-    "date": "2026-05-15",
-    "tip": "No Clear Favorite",
-    "confidence": "50.0%"
-  },
-  {
     "match": "Manchester United FC vs Nottingham Forest FC",
     "date": "2026-05-17",
     "tip": "No Clear Favorite",
@@ -58,5 +52,11 @@
     "date": "2026-05-19",
     "tip": "Away Win",
     "confidence": "61.8%"
+  },
+  {
+    "match": "Sunderland AFC vs Chelsea FC",
+    "date": "2026-05-24",
+    "tip": "Home Win",
+    "confidence": "70.0%"
   }
 ]

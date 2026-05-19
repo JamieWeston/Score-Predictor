@@ -1,11 +1,5 @@
 [
   {
-    "match": "Arsenal FC vs Burnley FC",
-    "date": "2026-05-18",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
     "match": "AFC Bournemouth vs Manchester City FC",
     "date": "2026-05-19",
     "tip": "No Clear Favorite",
@@ -33,7 +27,7 @@
     "match": "Crystal Palace FC vs Arsenal FC",
     "date": "2026-05-24",
     "tip": "Away Win",
-    "confidence": "58.8%"
+    "confidence": "63.8%"
   },
   {
     "match": "Burnley FC vs Wolverhampton Wanderers FC",
@@ -58,5 +52,11 @@
     "date": "2026-05-24",
     "tip": "Home Win",
     "confidence": "58.0%"
+  },
+  {
+    "match": "Nottingham Forest FC vs AFC Bournemouth",
+    "date": "2026-05-24",
+    "tip": "No Clear Favorite",
+    "confidence": "44.2%"
   }
 ]

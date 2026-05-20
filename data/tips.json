@@ -1,21 +1,9 @@
 [
   {
-    "match": "AFC Bournemouth vs Manchester City FC",
-    "date": "2026-05-19",
-    "tip": "No Clear Favorite",
-    "confidence": "45.5%"
-  },
-  {
-    "match": "Chelsea FC vs Tottenham Hotspur FC",
-    "date": "2026-05-19",
-    "tip": "Away Win",
-    "confidence": "61.8%"
-  },
-  {
     "match": "Sunderland AFC vs Chelsea FC",
     "date": "2026-05-24",
-    "tip": "Home Win",
-    "confidence": "70.0%"
+    "tip": "No Clear Favorite",
+    "confidence": "54.1%"
   },
   {
     "match": "Brighton & Hove Albion FC vs Manchester United FC",
@@ -51,12 +39,24 @@
     "match": "Manchester City FC vs Aston Villa FC",
     "date": "2026-05-24",
     "tip": "Home Win",
-    "confidence": "58.0%"
+    "confidence": "55.2%"
   },
   {
     "match": "Nottingham Forest FC vs AFC Bournemouth",
     "date": "2026-05-24",
     "tip": "No Clear Favorite",
-    "confidence": "44.2%"
+    "confidence": "44.3%"
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Everton FC",
+    "date": "2026-05-24",
+    "tip": "Home Win",
+    "confidence": "70.0%"
+  },
+  {
+    "match": "West Ham United FC vs Leeds United FC",
+    "date": "2026-05-24",
+    "tip": "No Clear Favorite",
+    "confidence": "55.0%"
   }
 ]

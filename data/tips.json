@@ -1,35 +1,5 @@
 [
   {
-    "match": "Hull City AFC vs Manchester United FC",
-    "date": "2026-08-22",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
-    "match": "Ipswich Town FC vs Sunderland AFC",
-    "date": "2026-08-22",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
-    "match": "Nottingham Forest FC vs Leeds United FC",
-    "date": "2026-08-22",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
-    "match": "Everton FC vs Crystal Palace FC",
-    "date": "2026-08-22",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
-    "match": "Brentford FC vs Tottenham Hotspur FC",
-    "date": "2026-08-22",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
     "match": "Manchester City FC vs AFC Bournemouth",
     "date": "2026-08-23",
     "tip": "No Clear Favorite",
@@ -56,7 +26,37 @@
   {
     "match": "Crystal Palace FC vs Manchester City FC",
     "date": "2026-08-28",
+    "tip": "Away Win",
+    "confidence": "63.8%"
+  },
+  {
+    "match": "Liverpool FC vs Nottingham Forest FC",
+    "date": "2026-08-29",
+    "tip": "Home Win",
+    "confidence": "70.0%"
+  },
+  {
+    "match": "AFC Bournemouth vs Everton FC",
+    "date": "2026-08-29",
+    "tip": "Home Win",
+    "confidence": "61.8%"
+  },
+  {
+    "match": "Coventry City FC vs Hull City AFC",
+    "date": "2026-08-29",
     "tip": "No Clear Favorite",
-    "confidence": "48.6%"
+    "confidence": "51.0%"
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Newcastle United FC",
+    "date": "2026-08-29",
+    "tip": "Away Win",
+    "confidence": "63.8%"
+  },
+  {
+    "match": "Sunderland AFC vs Fulham FC",
+    "date": "2026-08-30",
+    "tip": "Away Win",
+    "confidence": "63.8%"
   }
 ]

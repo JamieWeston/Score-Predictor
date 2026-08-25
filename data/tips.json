@@ -1,11 +1,5 @@
 [
   {
-    "match": "Fulham FC vs Chelsea FC",
-    "date": "2026-08-24",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
     "match": "Crystal Palace FC vs Manchester City FC",
     "date": "2026-08-28",
     "tip": "No Clear Favorite",
@@ -38,14 +32,14 @@
   {
     "match": "Sunderland AFC vs Fulham FC",
     "date": "2026-08-30",
-    "tip": "Away Win",
-    "confidence": "63.8%"
+    "tip": "Home Win",
+    "confidence": "70.0%"
   },
   {
     "match": "Chelsea FC vs Brighton & Hove Albion FC",
     "date": "2026-08-30",
-    "tip": "Home Win",
-    "confidence": "61.8%"
+    "tip": "No Clear Favorite",
+    "confidence": "53.1%"
   },
   {
     "match": "Leeds United FC vs Brentford FC",
@@ -56,6 +50,12 @@
   {
     "match": "Manchester United FC vs Ipswich Town FC",
     "date": "2026-08-30",
+    "tip": "No Clear Favorite",
+    "confidence": "51.0%"
+  },
+  {
+    "match": "Aston Villa FC vs Arsenal FC",
+    "date": "2026-08-31",
     "tip": "No Clear Favorite",
     "confidence": "51.0%"
   }

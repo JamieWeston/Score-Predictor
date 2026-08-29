@@ -1,11 +1,5 @@
 [
   {
-    "match": "Crystal Palace FC vs Manchester City FC",
-    "date": "2026-08-28",
-    "tip": "No Clear Favorite",
-    "confidence": "51.0%"
-  },
-  {
     "match": "Liverpool FC vs Nottingham Forest FC",
     "date": "2026-08-29",
     "tip": "Home Win",
@@ -58,5 +52,11 @@
     "date": "2026-08-31",
     "tip": "No Clear Favorite",
     "confidence": "51.0%"
+  },
+  {
+    "match": "Ipswich Town FC vs Liverpool FC",
+    "date": "2026-09-04",
+    "tip": "Home Win",
+    "confidence": "70.0%"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "match": "Aston Villa FC vs Arsenal FC",
-    "date": "2026-08-31",
-    "tip": "No Clear Favorite",
-    "confidence": "51.0%"
-  },
-  {
     "match": "Ipswich Town FC vs Liverpool FC",
     "date": "2026-09-04",
     "tip": "Home Win",
@@ -58,5 +52,11 @@
     "date": "2026-09-06",
     "tip": "Home Win",
     "confidence": "56.7%"
+  },
+  {
+    "match": "Arsenal FC vs Chelsea FC",
+    "date": "2026-09-06",
+    "tip": "No Clear Favorite",
+    "confidence": "48.6%"
   }
 ]

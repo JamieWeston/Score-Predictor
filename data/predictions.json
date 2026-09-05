@@ -1,38 +1,5 @@
 [
   {
-    "match": "Ipswich Town FC vs Liverpool FC",
-    "date": "2026-09-04",
-    "predictions": {
-      "result": {
-        "home_win": 60.7,
-        "draw": 15.0,
-        "away_win": 24.3
-      },
-      "btts": {
-        "yes": 45.4,
-        "no": 54.6
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "2-1",
-          "probability": 9.3
-        },
-        {
-          "score": "1-1",
-          "probability": 8.1
-        },
-        {
-          "score": "3-1",
-          "probability": 7.1
-        }
-      ]
-    }
-  },
-  {
     "match": "Newcastle United FC vs AFC Bournemouth",
     "date": "2026-09-05",
     "predictions": {
@@ -325,6 +292,39 @@
         {
           "score": "1-4",
           "probability": 5.5
+        }
+      ]
+    }
+  },
+  {
+    "match": "Crystal Palace FC vs Ipswich Town FC",
+    "date": "2026-09-12",
+    "predictions": {
+      "result": {
+        "home_win": 34.0,
+        "draw": 15.0,
+        "away_win": 51.0
+      },
+      "btts": {
+        "yes": 25,
+        "no": 75
+      },
+      "over_under_2_5": {
+        "over": 44.0,
+        "under": 56.0
+      },
+      "top_scorelines": [
+        {
+          "score": "0-0",
+          "probability": 26.7
+        },
+        {
+          "score": "0-1",
+          "probability": 23.7
+        },
+        {
+          "score": "1-0",
+          "probability": 11.5
         }
       ]
     }

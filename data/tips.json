@@ -1,11 +1,5 @@
 [
   {
-    "match": "Ipswich Town FC vs Liverpool FC",
-    "date": "2026-09-04",
-    "tip": "Home Win",
-    "confidence": "60.7%"
-  },
-  {
     "match": "Newcastle United FC vs AFC Bournemouth",
     "date": "2026-09-05",
     "tip": "Home Win",
@@ -58,5 +52,11 @@
     "date": "2026-09-06",
     "tip": "No Clear Favorite",
     "confidence": "48.6%"
+  },
+  {
+    "match": "Crystal Palace FC vs Ipswich Town FC",
+    "date": "2026-09-12",
+    "tip": "No Clear Favorite",
+    "confidence": "51.0%"
   }
 ]

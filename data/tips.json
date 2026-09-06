@@ -1,47 +1,5 @@
 [
   {
-    "match": "Newcastle United FC vs AFC Bournemouth",
-    "date": "2026-09-05",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
-    "match": "Nottingham Forest FC vs Tottenham Hotspur FC",
-    "date": "2026-09-05",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
-    "match": "Manchester City FC vs Coventry City FC",
-    "date": "2026-09-05",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
-    "match": "Brighton & Hove Albion FC vs Leeds United FC",
-    "date": "2026-09-05",
-    "tip": "No Clear Favorite",
-    "confidence": "47.2%"
-  },
-  {
-    "match": "Brentford FC vs Sunderland AFC",
-    "date": "2026-09-05",
-    "tip": "Home Win",
-    "confidence": "56.7%"
-  },
-  {
-    "match": "Fulham FC vs Crystal Palace FC",
-    "date": "2026-09-05",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
-    "match": "Hull City AFC vs Aston Villa FC",
-    "date": "2026-09-05",
-    "tip": "Home Win",
-    "confidence": "70.0%"
-  },
-  {
     "match": "Everton FC vs Manchester United FC",
     "date": "2026-09-06",
     "tip": "Home Win",
@@ -57,6 +15,48 @@
     "match": "Crystal Palace FC vs Ipswich Town FC",
     "date": "2026-09-12",
     "tip": "No Clear Favorite",
+    "confidence": "53.1%"
+  },
+  {
+    "match": "Liverpool FC vs Fulham FC",
+    "date": "2026-09-12",
+    "tip": "Home Win",
+    "confidence": "70.0%"
+  },
+  {
+    "match": "Aston Villa FC vs Nottingham Forest FC",
+    "date": "2026-09-12",
+    "tip": "No Clear Favorite",
     "confidence": "51.0%"
+  },
+  {
+    "match": "AFC Bournemouth vs Brentford FC",
+    "date": "2026-09-12",
+    "tip": "No Clear Favorite",
+    "confidence": "47.2%"
+  },
+  {
+    "match": "Chelsea FC vs Hull City AFC",
+    "date": "2026-09-12",
+    "tip": "No Clear Favorite",
+    "confidence": "45.3%"
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Everton FC",
+    "date": "2026-09-12",
+    "tip": "No Clear Favorite",
+    "confidence": "48.6%"
+  },
+  {
+    "match": "Sunderland AFC vs Arsenal FC",
+    "date": "2026-09-12",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Coventry City FC vs Brighton & Hove Albion FC",
+    "date": "2026-09-13",
+    "tip": "Away Win",
+    "confidence": "56.7%"
   }
 ]

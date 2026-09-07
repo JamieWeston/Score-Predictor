@@ -1,17 +1,5 @@
 [
   {
-    "match": "Everton FC vs Manchester United FC",
-    "date": "2026-09-06",
-    "tip": "Home Win",
-    "confidence": "56.7%"
-  },
-  {
-    "match": "Arsenal FC vs Chelsea FC",
-    "date": "2026-09-06",
-    "tip": "No Clear Favorite",
-    "confidence": "48.6%"
-  },
-  {
     "match": "Crystal Palace FC vs Ipswich Town FC",
     "date": "2026-09-12",
     "tip": "No Clear Favorite",
@@ -45,18 +33,30 @@
     "match": "Tottenham Hotspur FC vs Everton FC",
     "date": "2026-09-12",
     "tip": "No Clear Favorite",
-    "confidence": "48.6%"
+    "confidence": "53.1%"
   },
   {
     "match": "Sunderland AFC vs Arsenal FC",
     "date": "2026-09-12",
     "tip": "No Clear Favorite",
-    "confidence": "42.5%"
+    "confidence": "51.0%"
   },
   {
     "match": "Coventry City FC vs Brighton & Hove Albion FC",
     "date": "2026-09-13",
     "tip": "Away Win",
     "confidence": "56.7%"
+  },
+  {
+    "match": "Manchester United FC vs Manchester City FC",
+    "date": "2026-09-13",
+    "tip": "No Clear Favorite",
+    "confidence": "51.0%"
+  },
+  {
+    "match": "Leeds United FC vs Newcastle United FC",
+    "date": "2026-09-14",
+    "tip": "No Clear Favorite",
+    "confidence": "49.6%"
   }
 ]

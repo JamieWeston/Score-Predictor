@@ -1,38 +1,5 @@
 [
   {
-    "match": "Coventry City FC vs Newcastle United FC",
-    "date": "2026-10-12",
-    "predictions": {
-      "result": {
-        "home_win": 32.7,
-        "draw": 15,
-        "away_win": 52.3
-      },
-      "btts": {
-        "yes": 29.4,
-        "no": 70.6
-      },
-      "over_under_2_5": {
-        "over": 78.5,
-        "under": 21.5
-      },
-      "top_scorelines": [
-        {
-          "score": "0-1",
-          "probability": 17.1
-        },
-        {
-          "score": "0-2",
-          "probability": 15.4
-        },
-        {
-          "score": "1-1",
-          "probability": 9.5
-        }
-      ]
-    }
-  },
-  {
     "match": "Everton FC vs Chelsea FC",
     "date": "2026-10-17",
     "predictions": {
@@ -169,13 +136,13 @@
     "date": "2026-10-17",
     "predictions": {
       "result": {
-        "home_win": 56.7,
-        "draw": 15.0,
-        "away_win": 28.3
+        "home_win": 54.6,
+        "draw": 15,
+        "away_win": 30.4
       },
       "btts": {
-        "yes": 53.6,
-        "no": 46.4
+        "yes": 46.5,
+        "no": 53.5
       },
       "over_under_2_5": {
         "over": 85,
@@ -184,15 +151,15 @@
       "top_scorelines": [
         {
           "score": "2-1",
-          "probability": 8.0
-        },
-        {
-          "score": "3-1",
-          "probability": 7.9
+          "probability": 9.1
         },
         {
           "score": "2-0",
-          "probability": 6.0
+          "probability": 8.4
+        },
+        {
+          "score": "3-1",
+          "probability": 8.0
         }
       ]
     }
@@ -325,6 +292,39 @@
         {
           "score": "1-1",
           "probability": 6.2
+        }
+      ]
+    }
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Coventry City FC",
+    "date": "2026-10-19",
+    "predictions": {
+      "result": {
+        "home_win": 38.6,
+        "draw": 15.0,
+        "away_win": 46.4
+      },
+      "btts": {
+        "yes": 31.6,
+        "no": 68.4
+      },
+      "over_under_2_5": {
+        "over": 84.3,
+        "under": 15.7
+      },
+      "top_scorelines": [
+        {
+          "score": "0-1",
+          "probability": 13.3
+        },
+        {
+          "score": "1-1",
+          "probability": 11.5
+        },
+        {
+          "score": "0-2",
+          "probability": 11.1
         }
       ]
     }

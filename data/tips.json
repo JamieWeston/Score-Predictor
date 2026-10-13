@@ -1,11 +1,5 @@
 [
   {
-    "match": "Coventry City FC vs Newcastle United FC",
-    "date": "2026-10-12",
-    "tip": "No Clear Favorite",
-    "confidence": "52.3%"
-  },
-  {
     "match": "Everton FC vs Chelsea FC",
     "date": "2026-10-17",
     "tip": "No Clear Favorite",
@@ -32,8 +26,8 @@
   {
     "match": "Newcastle United FC vs Aston Villa FC",
     "date": "2026-10-17",
-    "tip": "Home Win",
-    "confidence": "56.7%"
+    "tip": "No Clear Favorite",
+    "confidence": "54.6%"
   },
   {
     "match": "AFC Bournemouth vs Sunderland AFC",
@@ -58,5 +52,11 @@
     "date": "2026-10-18",
     "tip": "No Clear Favorite",
     "confidence": "53.7%"
+  },
+  {
+    "match": "Tottenham Hotspur FC vs Coventry City FC",
+    "date": "2026-10-19",
+    "tip": "No Clear Favorite",
+    "confidence": "46.4%"
   }
 ]

@@ -1,38 +1,5 @@
 [
   {
-    "match": "Tottenham Hotspur FC vs Coventry City FC",
-    "date": "2026-10-19",
-    "predictions": {
-      "result": {
-        "home_win": 38.6,
-        "draw": 15.0,
-        "away_win": 46.4
-      },
-      "btts": {
-        "yes": 31.6,
-        "no": 68.4
-      },
-      "over_under_2_5": {
-        "over": 84.3,
-        "under": 15.7
-      },
-      "top_scorelines": [
-        {
-          "score": "0-1",
-          "probability": 13.3
-        },
-        {
-          "score": "1-1",
-          "probability": 11.5
-        },
-        {
-          "score": "0-2",
-          "probability": 11.1
-        }
-      ]
-    }
-  },
-  {
     "match": "Ipswich Town FC vs Nottingham Forest FC",
     "date": "2026-10-23",
     "predictions": {
@@ -141,8 +108,8 @@
         "away_win": 32.7
       },
       "btts": {
-        "yes": 39.6,
-        "no": 60.4
+        "yes": 41.2,
+        "no": 58.8
       },
       "over_under_2_5": {
         "over": 85,
@@ -150,16 +117,16 @@
       },
       "top_scorelines": [
         {
-          "score": "1-1",
-          "probability": 10.1
+          "score": "2-0",
+          "probability": 9.8
         },
         {
           "score": "2-1",
-          "probability": 9.7
+          "probability": 9.8
         },
         {
           "score": "1-0",
-          "probability": 8.1
+          "probability": 8.5
         }
       ]
     }
@@ -169,13 +136,13 @@
     "date": "2026-10-24",
     "predictions": {
       "result": {
-        "home_win": 63.8,
+        "home_win": 51.0,
         "draw": 15.0,
-        "away_win": 21.2
+        "away_win": 34.0
       },
       "btts": {
-        "yes": 53.1,
-        "no": 46.9
+        "yes": 62.5,
+        "no": 37.5
       },
       "over_under_2_5": {
         "over": 85,
@@ -183,16 +150,16 @@
       },
       "top_scorelines": [
         {
-          "score": "3-0",
-          "probability": 10.2
+          "score": "3-1",
+          "probability": 7.2
         },
         {
-          "score": "4-0",
-          "probability": 8.9
+          "score": "4-1",
+          "probability": 6.3
         },
         {
-          "score": "2-0",
-          "probability": 8.7
+          "score": "2-1",
+          "probability": 6.2
         }
       ]
     }
@@ -325,6 +292,39 @@
         {
           "score": "2-2",
           "probability": 6.6
+        }
+      ]
+    }
+  },
+  {
+    "match": "Sunderland AFC vs Leeds United FC",
+    "date": "2026-10-25",
+    "predictions": {
+      "result": {
+        "home_win": 28.3,
+        "draw": 15.0,
+        "away_win": 56.7
+      },
+      "btts": {
+        "yes": 37.6,
+        "no": 62.4
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "probability": 10.6
+        },
+        {
+          "score": "2-1",
+          "probability": 9.8
+        },
+        {
+          "score": "1-0",
+          "probability": 9.1
         }
       ]
     }

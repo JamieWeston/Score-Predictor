@@ -1,11 +1,5 @@
 [
   {
-    "match": "Ipswich Town FC vs Nottingham Forest FC",
-    "date": "2026-10-23",
-    "tip": "Home Win",
-    "confidence": "56.7%"
-  },
-  {
     "match": "Aston Villa FC vs Manchester City FC",
     "date": "2026-10-24",
     "tip": "No Clear Favorite",
@@ -58,5 +52,11 @@
     "date": "2026-10-25",
     "tip": "Away Win",
     "confidence": "56.7%"
+  },
+  {
+    "match": "Chelsea FC vs Manchester United FC",
+    "date": "2026-10-31",
+    "tip": "Home Win",
+    "confidence": "58.8%"
   }
 ]

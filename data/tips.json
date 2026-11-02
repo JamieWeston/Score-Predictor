@@ -1,11 +1,5 @@
 [
   {
-    "match": "Liverpool FC vs Arsenal FC",
-    "date": "2026-11-01",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
     "match": "Newcastle United FC vs Everton FC",
     "date": "2026-11-02",
     "tip": "No Clear Favorite",
@@ -45,7 +39,7 @@
     "match": "Crystal Palace FC vs Liverpool FC",
     "date": "2026-11-08",
     "tip": "No Clear Favorite",
-    "confidence": "53.1%"
+    "confidence": "51.0%"
   },
   {
     "match": "Sunderland AFC vs Chelsea FC",
@@ -58,5 +52,11 @@
     "date": "2026-11-08",
     "tip": "No Clear Favorite",
     "confidence": "47.8%"
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs Brentford FC",
+    "date": "2026-11-08",
+    "tip": "No Clear Favorite",
+    "confidence": "54.1%"
   }
 ]

@@ -1,15 +1,9 @@
 [
   {
-    "match": "Newcastle United FC vs Everton FC",
-    "date": "2026-11-02",
-    "tip": "No Clear Favorite",
-    "confidence": "52.3%"
-  },
-  {
     "match": "Everton FC vs Coventry City FC",
     "date": "2026-11-06",
     "tip": "No Clear Favorite",
-    "confidence": "47.8%"
+    "confidence": "42.5%"
   },
   {
     "match": "Leeds United FC vs Tottenham Hotspur FC",
@@ -58,5 +52,11 @@
     "date": "2026-11-08",
     "tip": "No Clear Favorite",
     "confidence": "54.1%"
+  },
+  {
+    "match": "Manchester United FC vs Aston Villa FC",
+    "date": "2026-11-08",
+    "tip": "Away Win",
+    "confidence": "58.4%"
   }
 ]

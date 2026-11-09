@@ -1,35 +1,5 @@
 [
   {
-    "match": "Crystal Palace FC vs Liverpool FC",
-    "date": "2026-11-08",
-    "tip": "No Clear Favorite",
-    "confidence": "51.0%"
-  },
-  {
-    "match": "Sunderland AFC vs Chelsea FC",
-    "date": "2026-11-08",
-    "tip": "Away Win",
-    "confidence": "63.8%"
-  },
-  {
-    "match": "Ipswich Town FC vs AFC Bournemouth",
-    "date": "2026-11-08",
-    "tip": "No Clear Favorite",
-    "confidence": "47.8%"
-  },
-  {
-    "match": "Brighton & Hove Albion FC vs Brentford FC",
-    "date": "2026-11-08",
-    "tip": "No Clear Favorite",
-    "confidence": "54.1%"
-  },
-  {
-    "match": "Manchester United FC vs Aston Villa FC",
-    "date": "2026-11-08",
-    "tip": "Away Win",
-    "confidence": "58.4%"
-  },
-  {
     "match": "Manchester City FC vs Fulham FC",
     "date": "2026-11-21",
     "tip": "No Clear Favorite",
@@ -45,18 +15,48 @@
     "match": "Aston Villa FC vs Sunderland AFC",
     "date": "2026-11-21",
     "tip": "Home Win",
-    "confidence": "70.0%"
+    "confidence": "62.3%"
   },
   {
     "match": "AFC Bournemouth vs Nottingham Forest FC",
     "date": "2026-11-21",
     "tip": "Home Win",
-    "confidence": "62.3%"
+    "confidence": "66.1%"
   },
   {
     "match": "Tottenham Hotspur FC vs Ipswich Town FC",
     "date": "2026-11-21",
     "tip": "Home Win",
     "confidence": "60.0%"
+  },
+  {
+    "match": "Coventry City FC vs Crystal Palace FC",
+    "date": "2026-11-21",
+    "tip": "Home Win",
+    "confidence": "61.8%"
+  },
+  {
+    "match": "Newcastle United FC vs Arsenal FC",
+    "date": "2026-11-21",
+    "tip": "Away Win",
+    "confidence": "60.7%"
+  },
+  {
+    "match": "Hull City AFC vs Brighton & Hove Albion FC",
+    "date": "2026-11-22",
+    "tip": "Away Win",
+    "confidence": "60.0%"
+  },
+  {
+    "match": "Liverpool FC vs Manchester United FC",
+    "date": "2026-11-22",
+    "tip": "Home Win",
+    "confidence": "66.8%"
+  },
+  {
+    "match": "Brentford FC vs Everton FC",
+    "date": "2026-11-23",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
   }
 ]

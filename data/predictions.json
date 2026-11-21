@@ -1,38 +1,5 @@
 [
   {
-    "match": "Manchester City FC vs Fulham FC",
-    "date": "2026-11-21",
-    "predictions": {
-      "result": {
-        "home_win": 42.5,
-        "draw": 15.0,
-        "away_win": 42.5
-      },
-      "btts": {
-        "yes": 59.4,
-        "no": 40.6
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "3-1",
-          "probability": 7.7
-        },
-        {
-          "score": "4-1",
-          "probability": 6.8
-        },
-        {
-          "score": "2-1",
-          "probability": 6.6
-        }
-      ]
-    }
-  },
-  {
     "match": "Chelsea FC vs Leeds United FC",
     "date": "2026-11-21",
     "predictions": {
@@ -325,6 +292,39 @@
         {
           "score": "1-2",
           "probability": 7.3
+        }
+      ]
+    }
+  },
+  {
+    "match": "Nottingham Forest FC vs Chelsea FC",
+    "date": "2026-11-27",
+    "predictions": {
+      "result": {
+        "home_win": 34.0,
+        "draw": 15.0,
+        "away_win": 51.0
+      },
+      "btts": {
+        "yes": 56.9,
+        "no": 43.1
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "2-2",
+          "probability": 7.1
+        },
+        {
+          "score": "2-1",
+          "probability": 6.3
+        },
+        {
+          "score": "1-2",
+          "probability": 6.2
         }
       ]
     }

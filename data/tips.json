@@ -1,41 +1,5 @@
 [
   {
-    "match": "Chelsea FC vs Leeds United FC",
-    "date": "2026-11-21",
-    "tip": "Home Win",
-    "confidence": "58.4%"
-  },
-  {
-    "match": "Aston Villa FC vs Sunderland AFC",
-    "date": "2026-11-21",
-    "tip": "Home Win",
-    "confidence": "62.3%"
-  },
-  {
-    "match": "AFC Bournemouth vs Nottingham Forest FC",
-    "date": "2026-11-21",
-    "tip": "Home Win",
-    "confidence": "66.1%"
-  },
-  {
-    "match": "Tottenham Hotspur FC vs Ipswich Town FC",
-    "date": "2026-11-21",
-    "tip": "Home Win",
-    "confidence": "60.0%"
-  },
-  {
-    "match": "Coventry City FC vs Crystal Palace FC",
-    "date": "2026-11-21",
-    "tip": "Home Win",
-    "confidence": "61.8%"
-  },
-  {
-    "match": "Newcastle United FC vs Arsenal FC",
-    "date": "2026-11-21",
-    "tip": "Away Win",
-    "confidence": "60.7%"
-  },
-  {
     "match": "Hull City AFC vs Brighton & Hove Albion FC",
     "date": "2026-11-22",
     "tip": "Away Win",
@@ -57,6 +21,42 @@
     "match": "Nottingham Forest FC vs Chelsea FC",
     "date": "2026-11-27",
     "tip": "No Clear Favorite",
-    "confidence": "51.0%"
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Leeds United FC vs Coventry City FC",
+    "date": "2026-11-28",
+    "tip": "No Clear Favorite",
+    "confidence": "53.1%"
+  },
+  {
+    "match": "Manchester United FC vs Brentford FC",
+    "date": "2026-11-28",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Ipswich Town FC vs Aston Villa FC",
+    "date": "2026-11-28",
+    "tip": "Away Win",
+    "confidence": "58.8%"
+  },
+  {
+    "match": "Everton FC vs Liverpool FC",
+    "date": "2026-11-29",
+    "tip": "No Clear Favorite",
+    "confidence": "42.5%"
+  },
+  {
+    "match": "Fulham FC vs AFC Bournemouth",
+    "date": "2026-11-29",
+    "tip": "No Clear Favorite",
+    "confidence": "49.0%"
+  },
+  {
+    "match": "Brighton & Hove Albion FC vs Newcastle United FC",
+    "date": "2026-11-29",
+    "tip": "Home Win",
+    "confidence": "62.6%"
   }
 ]

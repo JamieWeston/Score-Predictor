@@ -1,38 +1,5 @@
 [
   {
-    "match": "Brentford FC vs Everton FC",
-    "date": "2026-11-23",
-    "predictions": {
-      "result": {
-        "home_win": 42.5,
-        "draw": 15.0,
-        "away_win": 42.5
-      },
-      "btts": {
-        "yes": 46.1,
-        "no": 53.9
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "1-1",
-          "probability": 8.5
-        },
-        {
-          "score": "2-1",
-          "probability": 8.4
-        },
-        {
-          "score": "1-2",
-          "probability": 7.3
-        }
-      ]
-    }
-  },
-  {
     "match": "Nottingham Forest FC vs Chelsea FC",
     "date": "2026-11-27",
     "predictions": {
@@ -103,30 +70,30 @@
     "date": "2026-11-28",
     "predictions": {
       "result": {
-        "home_win": 37.8,
+        "home_win": 30.9,
         "draw": 15.0,
-        "away_win": 47.2
+        "away_win": 54.1
       },
       "btts": {
-        "yes": 31.2,
-        "no": 68.8
+        "yes": 43.0,
+        "no": 57.0
       },
       "over_under_2_5": {
-        "over": 83.3,
-        "under": 16.7
+        "over": 85,
+        "under": 15
       },
       "top_scorelines": [
         {
-          "score": "1-0",
-          "probability": 13.5
-        },
-        {
-          "score": "1-1",
-          "probability": 11.6
+          "score": "2-1",
+          "probability": 9.7
         },
         {
           "score": "2-0",
-          "probability": 11.1
+          "probability": 8.5
+        },
+        {
+          "score": "1-1",
+          "probability": 8.4
         }
       ]
     }
@@ -169,13 +136,13 @@
     "date": "2026-11-29",
     "predictions": {
       "result": {
-        "home_win": 36.4,
+        "home_win": 34.0,
         "draw": 15.0,
-        "away_win": 48.6
+        "away_win": 51.0
       },
       "btts": {
-        "yes": 73.8,
-        "no": 26.2
+        "yes": 53.6,
+        "no": 46.4
       },
       "over_under_2_5": {
         "over": 85,
@@ -183,16 +150,16 @@
       },
       "top_scorelines": [
         {
-          "score": "2-3",
-          "probability": 5.4
+          "score": "1-2",
+          "probability": 7.6
         },
         {
           "score": "2-2",
-          "probability": 5.1
+          "probability": 7.0
         },
         {
-          "score": "3-3",
-          "probability": 5.0
+          "score": "1-1",
+          "probability": 6.2
         }
       ]
     }
@@ -325,6 +292,39 @@
         {
           "score": "2-0",
           "probability": 12.3
+        }
+      ]
+    }
+  },
+  {
+    "match": "Arsenal FC vs Manchester City FC",
+    "date": "2026-11-29",
+    "predictions": {
+      "result": {
+        "home_win": 67.1,
+        "draw": 15,
+        "away_win": 17.9
+      },
+      "btts": {
+        "yes": 52.4,
+        "no": 47.6
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "probability": 7.8
+        },
+        {
+          "score": "2-2",
+          "probability": 7.0
+        },
+        {
+          "score": "1-1",
+          "probability": 6.5
         }
       ]
     }

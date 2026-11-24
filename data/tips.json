@@ -1,11 +1,5 @@
 [
   {
-    "match": "Brentford FC vs Everton FC",
-    "date": "2026-11-23",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
     "match": "Nottingham Forest FC vs Chelsea FC",
     "date": "2026-11-27",
     "tip": "No Clear Favorite",
@@ -21,7 +15,7 @@
     "match": "Manchester United FC vs Brentford FC",
     "date": "2026-11-28",
     "tip": "No Clear Favorite",
-    "confidence": "47.2%"
+    "confidence": "54.1%"
   },
   {
     "match": "Ipswich Town FC vs Aston Villa FC",
@@ -33,7 +27,7 @@
     "match": "Everton FC vs Liverpool FC",
     "date": "2026-11-29",
     "tip": "No Clear Favorite",
-    "confidence": "48.6%"
+    "confidence": "51.0%"
   },
   {
     "match": "Fulham FC vs AFC Bournemouth",
@@ -58,5 +52,11 @@
     "date": "2026-11-29",
     "tip": "Away Win",
     "confidence": "60.7%"
+  },
+  {
+    "match": "Arsenal FC vs Manchester City FC",
+    "date": "2026-11-29",
+    "tip": "Home Win",
+    "confidence": "67.1%"
   }
 ]

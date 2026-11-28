@@ -1,11 +1,5 @@
 [
   {
-    "match": "Nottingham Forest FC vs Chelsea FC",
-    "date": "2026-11-27",
-    "tip": "No Clear Favorite",
-    "confidence": "42.5%"
-  },
-  {
     "match": "Leeds United FC vs Coventry City FC",
     "date": "2026-11-28",
     "tip": "No Clear Favorite",
@@ -58,5 +52,11 @@
     "date": "2026-11-29",
     "tip": "Home Win",
     "confidence": "67.1%"
+  },
+  {
+    "match": "Coventry City FC vs Ipswich Town FC",
+    "date": "2026-12-01",
+    "tip": "Home Win",
+    "confidence": "68.0%"
   }
 ]

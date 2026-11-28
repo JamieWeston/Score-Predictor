@@ -1,38 +1,5 @@
 [
   {
-    "match": "Nottingham Forest FC vs Chelsea FC",
-    "date": "2026-11-27",
-    "predictions": {
-      "result": {
-        "home_win": 42.5,
-        "draw": 15.0,
-        "away_win": 42.5
-      },
-      "btts": {
-        "yes": 34.3,
-        "no": 65.7
-      },
-      "over_under_2_5": {
-        "over": 85,
-        "under": 15
-      },
-      "top_scorelines": [
-        {
-          "score": "1-1",
-          "probability": 12.1
-        },
-        {
-          "score": "0-1",
-          "probability": 9.2
-        },
-        {
-          "score": "1-2",
-          "probability": 8.6
-        }
-      ]
-    }
-  },
-  {
     "match": "Leeds United FC vs Coventry City FC",
     "date": "2026-11-28",
     "predictions": {
@@ -325,6 +292,39 @@
         {
           "score": "1-1",
           "probability": 6.5
+        }
+      ]
+    }
+  },
+  {
+    "match": "Coventry City FC vs Ipswich Town FC",
+    "date": "2026-12-01",
+    "predictions": {
+      "result": {
+        "home_win": 68.0,
+        "draw": 15.0,
+        "away_win": 17.0
+      },
+      "btts": {
+        "yes": 38.0,
+        "no": 62.0
+      },
+      "over_under_2_5": {
+        "over": 85,
+        "under": 15
+      },
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "probability": 10.6
+        },
+        {
+          "score": "2-1",
+          "probability": 9.7
+        },
+        {
+          "score": "1-0",
+          "probability": 8.8
         }
       ]
     }
